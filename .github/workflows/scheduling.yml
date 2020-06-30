@@ -23,6 +23,7 @@ jobs:
         chmod +x scrape
         sudo apt-get install xmlstarlet
         sudo apt-get install jq
+        sudo apt-get install python3-dev
         pip install yq
     - name: scarica i dati e crea feed
       env:
