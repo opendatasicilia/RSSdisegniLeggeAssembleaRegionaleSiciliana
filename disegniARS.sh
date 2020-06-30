@@ -31,18 +31,23 @@ jq <"$folder"/rawdata/risultati.json -r '.html.body.li[]|{legislatura:.div[0].p.
 # normalizza data e aggiungi data RSS
 mlr -I --csv clean-whitespace then put '$data=sub($data,"^([^\.]+)(\.)([^\.]+)(\.)([^\.]+)$","20\5-\3-\1")' then put '$RSSdate = strftime(strptime($data, "%Y-%m-%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/lista.csv
 
+# aggiungi URL disegno legge
 mlr -I --csv head then put '$URL="https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&icaQuery=%28".$legislatura.".LEGISL+E+%28".$numero."%29.NUMDDL%29"' "$folder"/rawdata/lista.csv
 
+# rimuovi eventuali righe duplicate
 mlr -I --csv uniq -a "$folder"/rawdata/lista.csv
 
+# copia lista scaricata in cartella pubblica
 cp "$folder"/rawdata/lista.csv "$folder"/docs/latest.csv
 
+# se non esiste CSV storico crealo
 if [ ! -f "$folder"/docs/storico.csv ]; then
   cp "$folder"/docs/latest.csv "$folder"/docs/storico.csv
 fi
 
 cp "$folder"/docs/storico.csv "$folder"/docs/tmp.csv
 
+# aggiorna storico
 mlr --csv uniq -a then sort -r data "$folder"/docs/tmp.csv "$folder"/docs/latest.csv >"$folder"/docs/storico.csv
 
 ### crea RSS ###
@@ -53,6 +58,7 @@ descrizione="Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Re
 webMaster="info@opendatasicilia.it (Open Data Sicilia)"
 selflink="https://aborruso.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml"
 
+# crea file TSV sorgente dati RSS e fai pulizia caratteri
 mlr --c2t --quote-none sort -r data \
   then put '$titolo=gsub($titolo,"<","&lt")' \
   then put '$titolo=gsub($titolo,">","&gt;")' \
@@ -62,18 +68,19 @@ mlr --c2t --quote-none sort -r data \
   then put '$titolo=gsub($titolo,"\"","&quot;")' "$folder"/rawdata/lista.csv |
   tail -n +2 >"$folder"/rawdata/rss.tsv
 
+# imposta ritorni a capo in modalità Linux
 dos2unix "$folder"/rawdata/rss.tsv
 
-creo una copia del template del feed
+# crea una copia del template del feed
 cp "$folder"/risorse/feedTemplate.xml "$folder"/processing/feed.xml
 
-# inserisco gli attributi di base nel feed
+# inserisci gli attributi di base nel feed
 xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/feed.xml
 xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/feed.xml
 xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/feed.xml
 xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*[name()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/feed.xml
 
-# leggo in loop i dati del file CSV e li uso per creare nuovi item nel file XML
+# leggi in loop i dati del file CSV e usali per creare nuovi item nel file XML
 newcounter=0
 while IFS=$'\t' read -r legislatura numero data titolo RSSdate URL; do
   newcounter=$(expr $newcounter + 1)
@@ -86,4 +93,5 @@ while IFS=$'\t' read -r legislatura numero data titolo RSSdate URL; do
     "$folder"/processing/feed.xml
 done <"$folder"/rawdata/rss.tsv
 
+# copia il feed nella cartella pubblica
 cp "$folder"/processing/feed.xml "$folder"/docs/
