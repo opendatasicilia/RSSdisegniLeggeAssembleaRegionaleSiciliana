@@ -41,7 +41,7 @@ mlr -I --csv uniq -a "$folder"/rawdata/lista.csv
 titolo="Disegni di legge dell'Assemblea Regionale Siciliana"
 descrizione="Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana"
 webMaster="info@opendatasicilia.it (Open Data Sicilia)"
-selflink="http://dev.ondata.it/projs/albopop/patti/feed.xml"
+selflink="https://aborruso.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml"
 
 mlr --c2t --quote-none sort -r data \
   then put '$titolo=gsub($titolo,"<","&lt")' \
