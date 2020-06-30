@@ -19,6 +19,9 @@ jobs:
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
+        cp bin/scrape ~/bin
+        cd ~/bin
+        chmod +x scrape
         sudo apt-get install xmlstarlet
     - name: scarica i dati e crea feed
       env:
