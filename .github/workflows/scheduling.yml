@@ -24,6 +24,7 @@ jobs:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-
         export PATH=$PATH:~/bin
+        chmod +x ./disegniARS.sh
         ./disegniARS.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
