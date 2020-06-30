@@ -6,14 +6,6 @@
     <description>Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana</description>
     <link>http://dev.ondata.it/projs/albopop/patti/feed.xml</link>
     <atom:link rel="self" href="http://dev.ondata.it/projs/albopop/patti/feed.xml" type="application/rss+xml"/>
-    <item>
-      <title>Disegno 781</title>
-      <description>Aspetti igienico sanitari per la costruzione, manutenzione, la vigilanza e la gestione delle piscine.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28781%29.NUMDDL%29</link>
-      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28781%29.NUMDDL%29</guid>
-    </item>
-    <item>
       <title>Disegno 780</title>
       <description>Rifinanziamento della legge regionale 1 settembre 1998 n. 17 e successive modifiche e integrazioni</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28780%29.NUMDDL%29</link>
