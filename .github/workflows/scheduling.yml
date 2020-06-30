@@ -13,12 +13,13 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-    - name: crea cartella utente bin, e copia dentro l'eseguibile di miller
+    - name: crea cartella utente bin, e copia dentro l'eseguibile di miller e installa xmlstarlet
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         cd ~/bin
         chmod +x mlr
+        sudo apt-get install xmlstarlet
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
