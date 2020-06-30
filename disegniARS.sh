@@ -35,6 +35,16 @@ mlr -I --csv head then put '$URL="https://w3.ars.sicilia.it/icaro/default.jsp?ic
 
 mlr -I --csv uniq -a "$folder"/rawdata/lista.csv
 
+cp "$folder"/rawdata/lista.csv "$folder"/docs/latest.csv
+
+if [ ! -f "$folder"/docs/storico.csv ]; then
+  cp "$folder"/docs/latest.csv "$folder"/docs/storico.csv
+fi
+
+cp "$folder"/docs/storico.csv "$folder"/docs/tmp.csv
+
+mlr --csv uniq -a then sort -r data "$folder"/docs/tmp.csv "$folder"/docs/latest.csv >"$folder"/docs/storico.csv
+
 ### crea RSS ###
 
 # anagrafica RSS
