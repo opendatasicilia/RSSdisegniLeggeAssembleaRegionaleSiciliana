@@ -76,4 +76,4 @@ while IFS=$'\t' read -r legislatura numero data titolo RSSdate URL; do
     "$folder"/processing/feed.xml
 done <"$folder"/rawdata/rss.tsv
 
-cp "$folder"/doc/feed.xml
+cp "$folder"/processing/feed.xml "$folder"/doc/
