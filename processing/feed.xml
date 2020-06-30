@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
   <channel>
-  <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>Disegni di legge dell'Assemblea Regionale Siciliana</title>
+    <description>Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana</description>
+    <link>http://dev.ondata.it/projs/albopop/patti/feed.xml</link>
+    <atom:link rel="self" href="http://dev.ondata.it/projs/albopop/patti/feed.xml" type="application/rss+xml"/>
   </channel>
 </rss>
