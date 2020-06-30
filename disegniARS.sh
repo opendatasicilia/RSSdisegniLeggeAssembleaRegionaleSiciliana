@@ -6,7 +6,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
-mkdir -p "$folder"/doc
+mkdir -p "$folder"/docs
 
 rm "$folder"/rawdata/*
 
@@ -76,4 +76,4 @@ while IFS=$'\t' read -r legislatura numero data titolo RSSdate URL; do
     "$folder"/processing/feed.xml
 done <"$folder"/rawdata/rss.tsv
 
-cp "$folder"/processing/feed.xml "$folder"/doc/
+cp "$folder"/processing/feed.xml "$folder"/docs/
