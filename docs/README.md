@@ -14,10 +14,8 @@ Un *feed RSS* è di base un elenco di avvisi. Ci si può iscrivere e rimanere ag
 
 ### Posta elettronica
 
-Questo è quello più "per tutti". Basta aprire questa pagina, inserire il proprio indirizzo e confermare l'iscrizione (arriverà un'email che lo chiederà).
-Una volta fatto si riceverà un'email con l'elenco dei Disegni di Legge presentati (numero del disegno, titolo e link per aprire la pagina).
-
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Inserisci il tuo indirizzo email:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="ars_disegni_legge" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Iscriviti" /><p>Un servizio di <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+Questo è il metodo forse più semplice". Basta aprire [questa pagina](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US), inserire il proprio indirizzo e confermare l'iscrizione (arriverà un'email che lo chiederà).
+Una volta iscritti si riceverà un'email periodica, con l'elenco degli ultimi Disegni di Legge presentati (numero del disegno, titolo e link per aprire la pagina dedicata).
 
 ### Lettori di feed RSS
 
@@ -32,4 +30,4 @@ Alcuni esempi:
 
 ### Canale Telegram
 
-
+https://t.me/ars_unofficial
