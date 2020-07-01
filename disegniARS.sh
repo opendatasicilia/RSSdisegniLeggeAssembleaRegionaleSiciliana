@@ -14,8 +14,10 @@ rm "$folder"/rawdata/*
 
 URLqueryBase="https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&icaQuery=%2817.LEGISL%29"
 
+# leggi la risposta HTTP del sito
 code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URLqueryBase"'')
 
+# se il sito è raggiungibile scarica i dati
 if [ $code -eq 200 ]; then
 
   # fai la query di base e imposta cookie
