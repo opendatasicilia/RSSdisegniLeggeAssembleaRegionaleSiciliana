@@ -23,25 +23,52 @@ if [ $code -eq 200 ]; then
   # fai la query di base e imposta cookie
   curl -skL -c "$folder"/rawdata/cookie "$URLqueryBase" >/dev/null
 
-  URLrisultatiBase="https://w3.ars.sicilia.it/icaro/shortList.jsp?_="
+  ### Pag 1
+
+  URLrisultatiBasePag1="https://w3.ars.sicilia.it/icaro/shortList.jsp?setPage=1&_="
 
   # leggi cooki e ricevi lista risultati
-  curl -skL -b "$folder"/rawdata/cookie "$URLrisultatiBase" >"$folder"/rawdata/risultati.html
+  curl -skL -b "$folder"/rawdata/cookie "$URLrisultatiBasePag1" >"$folder"/rawdata/risultati_01.html
 
   # estrai la lista dei risultati in formato JSON
-  scrape <"$folder"/rawdata/risultati.html -be '//ul[@id="shortListTable"]/li[position() > 1]' | xq . >"$folder"/rawdata/risultati.json
+  scrape <"$folder"/rawdata/risultati_01.html -be '//ul[@id="shortListTable"]/li[position() > 1]' | xq . >"$folder"/rawdata/risultati_01.json
 
   # estrai i valori dei 4 campi
-  jq <"$folder"/rawdata/risultati.json -r '.html.body.li[]|{legislatura:.div[0].p.strong["#text"],numero:.div[1].p.strong["#text"],data:.div[2].p.strong["#text"],titolo:.div[4].h3.a["#text"]}' | mlr --j2c unsparsify >"$folder"/rawdata/lista.csv
+  jq <"$folder"/rawdata/risultati_01.json -r '.html.body.li[]|{legislatura:.div[0].p.strong["#text"],numero:.div[1].p.strong["#text"],data:.div[2].p.strong["#text"],titolo:.div[4].h3.a["#text"]}' | mlr --j2c unsparsify >"$folder"/rawdata/lista_01.csv
 
   # normalizza data e aggiungi data RSS
-  mlr -I --csv clean-whitespace then put '$data=sub($data,"^([^\.]+)(\.)([^\.]+)(\.)([^\.]+)$","20\5-\3-\1")' then put '$RSSdate = strftime(strptime($data, "%Y-%m-%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/lista.csv
+  mlr -I --csv clean-whitespace then put '$data=sub($data,"^([^\.]+)(\.)([^\.]+)(\.)([^\.]+)$","20\5-\3-\1")' then put '$RSSdate = strftime(strptime($data, "%Y-%m-%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/lista_01.csv
 
   # aggiungi URL disegno legge
-  mlr -I --csv head then put '$URL="https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&icaQuery=%28".$legislatura.".LEGISL+E+%28".$numero."%29.NUMDDL%29"' "$folder"/rawdata/lista.csv
+  mlr -I --csv head then put '$URL="https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&icaQuery=%28".$legislatura.".LEGISL+E+%28".$numero."%29.NUMDDL%29"' "$folder"/rawdata/lista_01.csv
 
   # rimuovi eventuali righe duplicate
-  mlr -I --csv uniq -a "$folder"/rawdata/lista.csv
+  mlr -I --csv uniq -a "$folder"/rawdata/lista_01.csv
+
+  ### Pag 2
+
+  URLrisultatiBasePag1="https://w3.ars.sicilia.it/icaro/shortList.jsp?setPage=2&_="
+
+  # leggi cooki e ricevi lista risultati
+  curl -skL -b "$folder"/rawdata/cookie "$URLrisultatiBasePag1" >"$folder"/rawdata/risultati_02.html
+
+  # estrai la lista dei risultati in formato JSON
+  scrape <"$folder"/rawdata/risultati_02.html -be '//ul[@id="shortListTable"]/li[position() > 1]' | xq . >"$folder"/rawdata/risultati_02.json
+
+  # estrai i valori dei 4 campi
+  jq <"$folder"/rawdata/risultati_02.json -r '.html.body.li[]|{legislatura:.div[0].p.strong["#text"],numero:.div[1].p.strong["#text"],data:.div[2].p.strong["#text"],titolo:.div[4].h3.a["#text"]}' | mlr --j2c unsparsify >"$folder"/rawdata/lista_02.csv
+
+  # normalizza data e aggiungi data RSS
+  mlr -I --csv clean-whitespace then put '$data=sub($data,"^([^\.]+)(\.)([^\.]+)(\.)([^\.]+)$","20\5-\3-\1")' then put '$RSSdate = strftime(strptime($data, "%Y-%m-%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/lista_02.csv
+
+  # aggiungi URL disegno legge
+  mlr -I --csv head then put '$URL="https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&icaQuery=%28".$legislatura.".LEGISL+E+%28".$numero."%29.NUMDDL%29"' "$folder"/rawdata/lista_02.csv
+
+  # rimuovi eventuali righe duplicate
+  mlr -I --csv uniq -a "$folder"/rawdata/lista_02.csv
+
+  # unisci dati
+  mlr --csv uniq -a then sort -r data -nr numero "$folder"/rawdata/lista_02.csv "$folder"/rawdata/lista_01.csv >"$folder"/rawdata/lista.csv
 
   # copia lista scaricata in cartella pubblica
   cp "$folder"/rawdata/lista.csv "$folder"/docs/latest.csv
