@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
   <channel>
     <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
-    <title>Disegni di legge dell'Assemblea Regionale Siciliana</title>
+    <title>Disegni di legge dell'Assemblea Regionale Siciliana | a cura di OpenDataSicilia</title>
     <description>Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana</description>
     <link>https://aborruso.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml</link>
     <atom:link rel="self" href="https://aborruso.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml" type="application/rss+xml"/>
