@@ -89,7 +89,7 @@ if [ $code -eq 200 ]; then
   cp "$folder"/docs/storico.csv "$folder"/docs/tmp.csv
 
   # aggiorna storico
-  mlr --csv uniq -a then sort -r data "$folder"/docs/tmp.csv "$folder"/docs/latest.csv >"$folder"/docs/storico.csv
+  mlr --csv uniq -a then sort -r data -nr numero  "$folder"/docs/tmp.csv "$folder"/docs/latest.csv >"$folder"/docs/storico.csv
 
   ### crea RSS ###
 
