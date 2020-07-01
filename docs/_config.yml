@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+remote_theme: "pages-themes/primer"
+title: RSS disegni di leggi ARS
+description: Per essere aggiornati sui disegni di legge dell'Assemblea Regionale Siciliana
+lang: it-IT
