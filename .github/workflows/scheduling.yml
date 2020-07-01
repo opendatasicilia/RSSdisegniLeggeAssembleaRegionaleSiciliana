@@ -1,7 +1,7 @@
 name: crea feed RSS assemblea regionale siciiana
 
 on:
-  # push:
+  push:
   repository_dispatch:
   schedule:
 # le ore github sono -2, quindi se inserisco 5, sono le 7 di mattina italiane (con la variazione solare, legale)
@@ -22,10 +22,6 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt-get install xmlstarlet
-        sudo apt-get install jq
-        sudo apt-get install python3-dev
-        sudo apt-get install python3-setuptools
-        sudo apt-get install python-yaml
         sudo pip install yq
     - name: scarica i dati e crea feed
       env:
