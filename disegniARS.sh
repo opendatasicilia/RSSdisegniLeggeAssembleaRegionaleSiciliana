@@ -56,10 +56,10 @@ if [ $code -eq 200 ]; then
 
   ### Pag 2
 
-  URLrisultatiBasePag1="https://w3.ars.sicilia.it/icaro/shortList.jsp?setPage=2&_="
+  URLrisultatiBasePag2="https://w3.ars.sicilia.it/icaro/shortList.jsp?setPage=2&_="
 
   # leggi cooki e ricevi lista risultati
-  curl -skL -b "$folder"/rawdata/cookie "$URLrisultatiBasePag1" >"$folder"/rawdata/risultati_02.html
+  curl -skL -b "$folder"/rawdata/cookie "$URLrisultatiBasePag2" >"$folder"/rawdata/risultati_02.html
 
   # estrai la lista dei risultati in formato JSON
   scrape <"$folder"/rawdata/risultati_02.html -be '//ul[@id="shortListTable"]/li[position() > 1]' | xq . >"$folder"/rawdata/risultati_02.json
