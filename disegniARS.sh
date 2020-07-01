@@ -94,7 +94,7 @@ if [ $code -eq 200 ]; then
   ### crea RSS ###
 
   # anagrafica RSS
-  titolo="Disegni di legge dell'Assemblea Regionale Siciliana"
+  titolo="Disegni di legge dell'Assemblea Regionale Siciliana | a cura di OpenDataSicilia"
   descrizione="Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana"
   webMaster="info@opendatasicilia.it (Open Data Sicilia)"
   selflink="https://aborruso.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml"
@@ -121,7 +121,7 @@ if [ $code -eq 200 ]; then
   xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/feed.xml
   xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*[name()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/feed.xml
 
-  # leggi in loop i dati del file CSV e usali per creare nuovi item nel file XML
+  # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
   while IFS=$'\t' read -r legislatura numero data titolo RSSdate URL; do
     newcounter=$(expr $newcounter + 1)
