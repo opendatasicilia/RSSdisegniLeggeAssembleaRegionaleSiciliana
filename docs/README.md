@@ -10,8 +10,22 @@ L'URL è .......
 
 ## Come iscriversi
 
-### Feed Reader
+Un *feed RSS* è di base un elenco di avvisi. Ci si può iscrivere e rimanere aggiornati a questo nei modi descritti sotto.
 
 ### Posta elettronica
+
+Questo è quello più "per tutti". Basta aprire questa pagina, inserire il proprio indirizzo e confermare l'iscrizione (arriverà un'email che lo chiederà).
+Una volta fatto si riceverà un'email con l'elenco dei Disegni di Legge presentati (numero del disegno, titolo e link per aprire la pagina).
+
+### Lettori di feed RSS
+
+L'output principale di questo lavoro è un *feed RSS*, quindi per leggerlo si può usare uno dei lettori dedicati.<br>
+Alcuni esempi:
+
+- feedly <https://feedly.com/>;
+- Inoreader <https://www.inoreader.com/>;
+- Tiny Tiny RSS <https://tt-rss.org/>.
+
+![](./imgs/rssReader.png)
 
 ### Canale Telegram
