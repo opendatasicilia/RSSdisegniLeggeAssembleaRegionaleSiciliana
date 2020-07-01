@@ -1,11 +1,11 @@
 #!/bin/bash
 
 ### requisiti ###
-# miller
-# scrape
-# jq
-# xq
-# xmlstarlet
+# miller https://github.com/johnkerl/miller
+# scrape-cli https://github.com/aborruso/scrape-cli
+# jq https://stedolan.github.io/jq/
+# xq https://github.com/kislyuk/yq
+# xmlstarlet http://xmlstar.sourceforge.net/
 ### requisiti ###
 
 set -x
