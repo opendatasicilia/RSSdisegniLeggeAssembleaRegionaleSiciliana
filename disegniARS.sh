@@ -97,7 +97,7 @@ if [ $code -eq 200 ]; then
   titolo="Disegni di legge dell'Assemblea Regionale Siciliana | a cura di OpenDataSicilia"
   descrizione="Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana"
   webMaster="info@opendatasicilia.it (Open Data Sicilia)"
-  selflink="https://aborruso.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml"
+  selflink="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml"
 
   # crea file TSV sorgente dati RSS e fai pulizia caratteri
   mlr --c2t --quote-none sort -r data \
