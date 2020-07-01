@@ -13,7 +13,7 @@ jobs:
     steps:
     - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
       uses: actions/checkout@v2
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet, jq e xq
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet e xq
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
