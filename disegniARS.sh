@@ -1,5 +1,14 @@
 #!/bin/bash
 
+### requisiti ###
+# miller
+# scrape
+# jq
+# xq
+# xmlstarlet
+### requisiti ###
+
+
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
