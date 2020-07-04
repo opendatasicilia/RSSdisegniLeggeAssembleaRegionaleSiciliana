@@ -1,7 +1,7 @@
 name: crea feed RSS assemblea regionale siciiana
 
 on:
-#  push:
+  push:
   repository_dispatch:
   schedule:
     - cron:  '00 */1 * * *'
@@ -21,7 +21,7 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt-get install xmlstarlet
-        sudo pip install yq
+        sudo pip install yq goodtables
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
