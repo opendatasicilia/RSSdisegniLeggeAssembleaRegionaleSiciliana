@@ -7,6 +7,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno 792</title>
+      <description>Norme per disciplinare la specifica ipotesi della reinternalizzazione di funzioni o servizi, affidati a società in house del sistema camerale, da parte delle Camere di Commercio della Regione</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28792%29.NUMDDL%29</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28792%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno 791</title>
+      <description>Tutela della posidonia nelle spiagge siciliane</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28791%29.NUMDDL%29</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28791%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno 790</title>
       <description>Norme per la tutela dei genitori separati o divorziati e dei loro figli</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28790%29.NUMDDL%29</link>
@@ -131,20 +145,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28770%29.NUMDDL%29</link>
       <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28770%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno 769</title>
-      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2020 - mese Febbraio</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28769%29.NUMDDL%29</link>
-      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28769%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno 778</title>
-      <description>INSERIRE TITOLO</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28778%29.NUMDDL%29</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28778%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
