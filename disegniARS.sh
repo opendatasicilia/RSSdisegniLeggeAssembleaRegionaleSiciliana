@@ -132,7 +132,7 @@ if [ $code -eq 200 ]; then
     while IFS=$'\t' read -r legislatura numero data titolo RSSdate URL; do
       newcounter=$(expr $newcounter + 1)
       xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
-        --subnode "//item[$newcounter]" --type elem -n title -v "Disegno $numero" \
+        --subnode "//item[$newcounter]" --type elem -n title -v "Disegno di legge $numero" \
         --subnode "//item[$newcounter]" --type elem -n description -v "$titolo" \
         --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
         --subnode "//item[$newcounter]" --type elem -n pubDate -v "$RSSdate" \
