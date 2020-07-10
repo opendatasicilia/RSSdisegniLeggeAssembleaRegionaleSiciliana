@@ -1,4 +1,4 @@
-# Essere avvisati per le proposte di Disegni Di Legge in Assemblea Regionale Siciliana (ARS)
+# Essere avvisati per le proposte di Disegni di Legge in Assemblea Regionale Siciliana (ARS)
 
 > L'**Assemblea Regionale Siciliana** (ARS) dal 1947 è l'**organo legislativo** della **Regione siciliana**, come previsto dal suo statuto speciale. (da Wikipedia)
 
