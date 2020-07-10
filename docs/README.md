@@ -10,24 +10,37 @@ L'indirizzo è <http://feeds.feedburner.com/ars_disegni_legge>
 
 ## Come iscriversi
 
-Un *feed RSS* è di base un elenco di avvisi. Ci si può iscrivere e rimanere aggiornati a questo nei modi descritti sotto.
+Un *feed RSS* è di base un elenco di avvisi. Ci si può iscrivere e **rimanere aggiornati** nei modi descritti sotto.
 
 ### Posta elettronica
 
-Questo è il metodo forse più semplice". Basta aprire [questa pagina](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US), inserire il proprio indirizzo e confermare l'iscrizione (arriverà un'email che lo chiederà).
+Questo è il metodo più semplice". Basta aprire [questa pagina](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US), 1) inserire il proprio **indirizzo email**, 2) fare click sulla verifica di non essere un robot e 3) poi sul pulsante di iscrizione.
+
+[![](./imgs/iscrizioneEmail.png)](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US)
+
+Chi si è iscritto così, riceverà un'email per confermare la cosa.
+
 Una volta iscritti si riceverà un'email periodica, con l'elenco degli ultimi Disegni di Legge presentati (numero del disegno, titolo e link per aprire la pagina dedicata).
 
 ### Lettori di feed RSS
 
-L'output principale di questo lavoro è un *feed RSS*, quindi per leggerlo si può usare uno dei lettori dedicati.<br>
-Alcuni esempi:
+L'output principale di questo lavoro è un *feed RSS*, quindi per leggerlo si può usare uno dei lettori dedicati. Una volta installato il *reader*, non rimane che aggiungere l'URL del feed: <http://feeds.feedburner.com/ars_disegni_legge>
+
+Alcuni esempi di lettori di feed RSS, installabili su *smartphon* e/o usabili da PC:
 
 - feedly <https://feedly.com/>;
 - Inoreader <https://www.inoreader.com/>;
 - Tiny Tiny RSS <https://tt-rss.org/>.
 
+Una volta aggiunto, le varie proposte di Disegno Di Legge appariranno nel proprio lettore (sotto un esempio).
+
 ![](./imgs/rssReader.png)
 
 ### Canale Telegram
 
-https://t.me/ars_unofficial
+Per chi usa [**Telegram**](https://telegram.org/) è stato creato un canale, dove saranno pubblicate le proposte di Disegno Di Legge che entreranno nel tempo sul sito dell'ARS.
+
+Per iscriversi al canale fare click qui <https://t.me/ars_unofficial> e una volta aperto il canale fare click su <kbd>UNISCITI</kbd>
+
+
+![](imgs/iscrivitiCanaleFreccia.png)
