@@ -6,6 +6,6 @@ relative_links:
 include:
   - README.md
 remote_theme: "pages-themes/primer"
-title: RSS disegni di legge ARS
+title: RSS Disegni Di Legge ARS
 description: Per essere aggiornati sui disegni di legge dell'Assemblea Regionale Siciliana
 lang: it-IT
