@@ -20,6 +20,10 @@ Chi si è iscritto così, riceverà un'email per confermare la cosa.
 
 Una volta iscritti si riceverà un'email periodica, con l'elenco degli ultimi Disegni di Legge presentati (numero del disegno, titolo e link per aprire la pagina dedicata).
 
+Sotto un esempio.
+
+![](imgs/emailEsempio.png)
+
 ## Canale Telegram
 
 Per chi usa [**Telegram**](https://telegram.org/) è stato creato un canale, dove saranno pubblicate le proposte di Disegno Di Legge che entreranno nel tempo sul sito dell'ARS.
