@@ -22,7 +22,7 @@ Una volta iscritti si riceverà un'email periodica, con l'elenco degli ultimi Di
 
 Sotto un esempio.
 
-![](imgs/emailEsempio.png)
+[![](imgs/emailEsempio.png)](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US)
 
 ## Canale Telegram
 
@@ -31,7 +31,7 @@ Per chi usa [**Telegram**](https://telegram.org/) è stato creato un canale, dov
 Per iscriversi al canale fare click qui <https://t.me/ars_unofficial> e una volta aperto il canale fare click su <kbd>UNISCITI</kbd>.
 
 
-![](imgs/iscrivitiCanaleFreccia.png)
+[![](imgs/iscrivitiCanaleFreccia.png)](https://t.me/ars_unofficial)
 
 ## Lettori di feed RSS
 
