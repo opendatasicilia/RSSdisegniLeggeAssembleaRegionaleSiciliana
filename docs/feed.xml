@@ -3,6 +3,7 @@
   <channel>
     <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
     <title>Disegni di legge dell'Assemblea Regionale Siciliana | a cura di OpenDataSicilia</title>
+    <webMaster>info@opendatasicilia.it (Open Data Sicilia)</webMaster>
     <description>Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana</description>
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml" type="application/rss+xml"/>
