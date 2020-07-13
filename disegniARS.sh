@@ -85,17 +85,17 @@ if [ $code -eq 200 ]; then
   if [ "$numeroRighe" -gt 2 ]; then
 
     # copia lista scaricata in cartella pubblica
-    cp "$folder"/rawdata/lista.csv "$folder"/docs/latest.csv
+    cp "$folder"/rawdata/lista.csv "$folder"/docs/disegniLegge_latest.csv
 
     # se non esiste CSV storico crealo
-    if [ ! -f "$folder"/docs/storico.csv ]; then
-      cp "$folder"/docs/latest.csv "$folder"/docs/storico.csv
+    if [ ! -f "$folder"/docs/disegniLegge_storico.csv ]; then
+      cp "$folder"/docs/disegniLegge_latest.csv "$folder"/docs/disegniLegge_storico.csv
     fi
 
-    cp "$folder"/docs/storico.csv "$folder"/docs/tmp.csv
+    cp "$folder"/docs/disegniLegge_storico.csv "$folder"/docs/tmp.csv
 
     # aggiorna storico
-    mlr --csv uniq -a then sort -r data -nr numero "$folder"/docs/tmp.csv "$folder"/docs/latest.csv >"$folder"/docs/storico.csv
+    mlr --csv uniq -a then sort -r data -nr numero "$folder"/docs/tmp.csv "$folder"/docs/disegniLegge_latest.csv >"$folder"/docs/disegniLegge_storico.csv
 
     ### crea RSS ###
 
@@ -103,7 +103,7 @@ if [ $code -eq 200 ]; then
     titolo="Disegni di legge dell'Assemblea Regionale Siciliana | a cura di OpenDataSicilia"
     descrizione="Un RSS per essere aggiornato sui disegni di legge dell'Assemblea Regionale Siciliana"
     webMaster="info@opendatasicilia.it (Open Data Sicilia)"
-    selflink="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/feed.xml"
+    selflink="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml"
 
     # crea file TSV sorgente dati RSS e fai pulizia caratteri
     mlr --c2t --quote-none sort -r data \
@@ -119,14 +119,14 @@ if [ $code -eq 200 ]; then
     dos2unix "$folder"/rawdata/rss.tsv
 
     # crea una copia del template del feed
-    cp "$folder"/risorse/feedTemplate.xml "$folder"/processing/feed.xml
+    cp "$folder"/risorse/feedTemplate.xml "$folder"/processing/disegniLegge_feed.xml
 
     # inserisci gli attributi di base nel feed
-    xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/feed.xml
-    xmlstarlet ed -L --subnode "//channel" --type elem -n webMaster -v "$webMaster" "$folder"/processing/feed.xml
-    xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/feed.xml
-    xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/feed.xml
-    xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*[name()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/disegniLegge_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n webMaster -v "$webMaster" "$folder"/processing/disegniLegge_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/disegniLegge_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/disegniLegge_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*[name()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/disegniLegge_feed.xml
 
     # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
     newcounter=0
@@ -138,10 +138,10 @@ if [ $code -eq 200 ]; then
         --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
         --subnode "//item[$newcounter]" --type elem -n pubDate -v "$RSSdate" \
         --subnode "//item[$newcounter]" --type elem -n guid -v "$URL" \
-        "$folder"/processing/feed.xml
+        "$folder"/processing/disegniLegge_feed.xml
     done <"$folder"/rawdata/rss.tsv
 
     # copia il feed nella cartella pubblica
-    cp "$folder"/processing/feed.xml "$folder"/docs/
+    cp "$folder"/processing/disegniLegge_feed.xml "$folder"/docs/
   fi
 fi
