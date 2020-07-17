@@ -67,36 +67,42 @@ if [ $code -eq 200 ]; then
 
   mlr --c2t --quote-none head -n 30 then cut -f numero,descrizione,file,RSSdate "$folder"/processing/delibereLeggi.csv | tail -n +2 >"$folder"/processing/delibereLeggi.tsv
 
-  # imposta ritorni a capo in modalità Linux
-  dos2unix "$folder"/processing/delibereLeggi.tsv
+  # conteggia numero righe file di output
+  numeroRighe=$(wc <"$folder"/processing/delibereLeggi.tsv -l)
 
-  # crea una copia del template del feed
-  cp "$folder"/risorse/feedTemplate.xml "$folder"/processing/delibereLeggi_feed.xml
+  # se sono più di due procedi con la creazione del feed
+  if [ "$numeroRighe" -gt 26 ]; then
 
-  # inserisci gli attributi di base nel feed
-  xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/delibereLeggi_feed.xml
-  xmlstarlet ed -L --subnode "//channel" --type elem -n webMaster -v "$webMaster" "$folder"/processing/delibereLeggi_feed.xml
-  xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/delibereLeggi_feed.xml
-  xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/delibereLeggi_feed.xml
-  xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*[name()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/delibereLeggi_feed.xml
+    # imposta ritorni a capo in modalità Linux
+    dos2unix "$folder"/processing/delibereLeggi.tsv
 
-  # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
-  newcounter=0
-  while IFS=$'\t' read -r numero descrizione file RSSdate; do
-    newcounter=$(expr $newcounter + 1)
-    xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
-      --subnode "//item[$newcounter]" --type elem -n title -v "Disegno di legge $numero" \
-      --subnode "//item[$newcounter]" --type elem -n description -v "$descrizione" \
-      --subnode "//item[$newcounter]" --type elem -n link -v "$file" \
-      --subnode "//item[$newcounter]" --type elem -n pubDate -v "$RSSdate" \
-      --subnode "//item[$newcounter]" --type elem -n guid -v "$file" \
-      "$folder"/processing/delibereLeggi_feed.xml
-  done <"$folder"/processing/delibereLeggi.tsv
+    # crea una copia del template del feed
+    cp "$folder"/risorse/feedTemplate.xml "$folder"/processing/delibereLeggi_feed.xml
 
-  # copia il feed nella cartella pubblica
-  cp "$folder"/processing/delibereLeggi_feed.xml "$folder"/docs/
+    # inserisci gli attributi di base nel feed
+    xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/delibereLeggi_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n webMaster -v "$webMaster" "$folder"/processing/delibereLeggi_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/delibereLeggi_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/delibereLeggi_feed.xml
+    xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*[name()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/delibereLeggi_feed.xml
 
-  # copia tabella base nella cartella pubblica
-  cp "$folder"/processing/delibereLeggi.csv "$folder"/docs/
+    # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
+    newcounter=0
+    while IFS=$'\t' read -r numero descrizione file RSSdate; do
+      newcounter=$(expr $newcounter + 1)
+      xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
+        --subnode "//item[$newcounter]" --type elem -n title -v "Disegno di legge $numero" \
+        --subnode "//item[$newcounter]" --type elem -n description -v "$descrizione" \
+        --subnode "//item[$newcounter]" --type elem -n link -v "$file" \
+        --subnode "//item[$newcounter]" --type elem -n pubDate -v "$RSSdate" \
+        --subnode "//item[$newcounter]" --type elem -n guid -v "$file" \
+        "$folder"/processing/delibereLeggi_feed.xml
+    done <"$folder"/processing/delibereLeggi.tsv
 
+    # copia il feed nella cartella pubblica
+    cp "$folder"/processing/delibereLeggi_feed.xml "$folder"/docs/
+
+    # copia tabella base nella cartella pubblica
+    cp "$folder"/processing/delibereLeggi.csv "$folder"/docs/
+  fi
 fi
