@@ -78,6 +78,8 @@ if [ $code -eq 200 ]; then
   # unisci dati
   mlr --csv uniq -a then sort -r data -nr numero "$folder"/rawdata/lista_02.csv "$folder"/rawdata/lista_01.csv >"$folder"/rawdata/lista.csv
 
+  mlr -I --csv  put '$datasort=strftime(strptime($data, "%Y-%m-%d"),"%Y-%m-%d")' then sort -r datasort -nr numero then cut -x -f datasort "$folder"/rawdata/lista.csv
+
   # conteggia numero righe file di output
   numeroRighe=$(wc <"$folder"/rawdata/lista.csv -l)
 
@@ -97,6 +99,8 @@ if [ $code -eq 200 ]; then
     # aggiorna storico
     mlr --csv uniq -a then sort -r data -nr numero "$folder"/docs/tmp.csv "$folder"/docs/disegniLegge_latest.csv >"$folder"/docs/disegniLegge_storico.csv
 
+    mlr -I --csv  put '$datasort=strftime(strptime($data, "%Y-%m-%d"),"%Y-%m-%d")' then sort -r datasort -nr numero then cut -x -f datasort "$folder"/docs/disegniLegge_storico.csv
+
     ### crea RSS ###
 
     # anagrafica RSS
@@ -106,8 +110,7 @@ if [ $code -eq 200 ]; then
     selflink="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml"
 
     # crea file TSV sorgente dati RSS e fai pulizia caratteri
-    mlr --c2t --quote-none sort -r data \
-      then put '$titolo=gsub($titolo,"<","&lt")' \
+    mlr --c2t --quote-none put '$titolo=gsub($titolo,"<","&lt")' \
       then put '$titolo=gsub($titolo,">","&gt;")' \
       then put '$titolo=gsub($titolo,"&","&amp;")' \
       then put '$URL=gsub($URL,"&","&amp;")' \
