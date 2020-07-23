@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Numero 301</title>
+      <description>Riconoscimento dei danni da ghiri sul sistema coricolo della provincia di Messina. - Apprezzamento</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.301_16.07.2020.pdf</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.301_16.07.2020.pdf</guid>
+    </item>
+    <item>
+      <title>Numero 298</title>
+      <description>Promozione del territorio e dei prodotti siciliani. Co-marketing tra la Regione Siciliana e Dolce&amp;Gabbana. - Iniziative?</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.298_16.07.2020.pdf</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.298_16.07.2020.pdf</guid>
+    </item>
+    <item>
       <title>Numero 297</title>
       <description>Articolo 51, comma 2, della legge regionale 12 maggio 2010, n. 11. Rideterminazione dotazione organica dell'Amministrazione regionale anno 2020</description>
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.297_16.07.2020.pdf</link>
@@ -20,6 +34,13 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.296_16.07.2020.pdf</link>
       <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.296_16.07.2020.pdf</guid>
+    </item>
+    <item>
+      <title>Numero 295</title>
+      <description>Interventi di edilizia scolastica urgenti dei Comuni di Ustica e Belmonte Mezzagno ? Attivazione fondi ex art. 38 dello Statuto della Regione Siciliana</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.295_16.07.2020.pdf</link>
+      <pubDate>Thu, 16 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.295_16.07.2020.pdf</guid>
     </item>
     <item>
       <title>Numero 294</title>
@@ -195,27 +216,6 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.270_14.06.2020%20con%20omissis.pdf</link>
       <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.270_14.06.2020%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>Numero 269</title>
-      <description>Art. 11, legge regionale 3 dicembre 2003, n. 20 ? Conferimento incarico di Dirigente generale del Dipartimento regionale della protezione civile della Presidenza della Regione all'Ing. Salvatore Cocina</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.269_14.06.2020%20con%20omissis.pdf</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.269_14.06.2020%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>Numero 268</title>
-      <description>Art. 11, legge regionale 3 dicembre 2003, n. 20 ? Conferimento incarico di Dirigente generale dell'Ufficio Speciale Autorità di Audit dei programmi Cofinanziati dalla Commissione Europea della Presidenza della Regione all'Avv. Terranova Grazia</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.268_14.06.2020%20con%20omissis.pdf</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.268_14.06.2020%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>Numero 267</title>
-      <description>Art. 11, legge regionale 3 dicembre 2003, n. 20 ? Conferimento incarico di Dirigente generale dell'Ufficio Speciale Autorità di Certificazione dei Programmi Cofinanziati dalla Commissione Europea della Presidenza della Regione alla dott.ssa Antinoro Maria Concetta</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.267_14.06.2020%20con%20omissis.pdf</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.267_14.06.2020%20con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
