@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 811</title>
+      <description>Disposizioni finanziarie</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28811%29.NUMDDL%29</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28811%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 810</title>
       <description>Modifiche di norme in materia di cessazione del consiglio comunale a seguito di mancata approvazione del bilancio</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28810%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28789%29.NUMDDL%29</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28789%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 788</title>
-      <description>Misure urgenti per la riduzione dell'utilizzo delle bottiglie di plastica monouso attraverso la promozione dell'uso di acqua alla spina.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28788%29.NUMDDL%29</link>
-      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28788%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
