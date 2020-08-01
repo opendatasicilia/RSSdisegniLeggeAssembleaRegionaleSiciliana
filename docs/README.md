@@ -1,48 +1,82 @@
-# Essere avvisati per le proposte di Disegni di Legge in Assemblea Regionale Siciliana (ARS)
+- [Essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate](#essere-avvisati-per-nuove-proposte-di-disegni-di-legge-dellassemblea-regionale-siciliana-ars-e-per-delibere-e-leggi-approvate)
+  - [Posta elettronica](#posta-elettronica)
+  - [Lettore di feed RSS](#lettore-di-feed-rss)
+  - [Canale Telegram](#canale-telegram)
+- [Note](#note)
+  - [Nuove proposte di Disegni di Legge](#nuove-proposte-di-disegni-di-legge)
+  - [Delibere e leggi approvate](#delibere-e-leggi-approvate)
 
-> L'**Assemblea Regionale Siciliana** (ARS) dal 1947 è l'**organo legislativo** della **Regione siciliana**, come previsto dal suo statuto speciale. (da Wikipedia)
+## Essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate
 
-Il [sito dedicato](https://www.ars.sicilia.it/ms/home/cerca/221.jsp) ai **disegni di legge** che vengono prensentati dentro l'**ARS** ha un ricco motore di ricerca, che supporta anche [modalità ricche di raffinate](https://w3.ars.sicilia.it/home/cerca/help.jsp), ma **non è possibile essere avvisati** tutte le volte che **un nuovo disegno viene presentato**.
+L'**Assemblea Regionale Siciliana** (ARS) dal 1947 è l'**organo legislativo** della **Regione siciliana**, come previsto dal suo statuto speciale (da Wikipedia).<br>
+Al momento l'unico modo per seguirne le attività è aprire le pagine dei siti internet in cui sono pubblicate notizie correlate.
 
-Allora abbiamo abiltato **tre modi per farlo**:
+Abbiamo creato dei meccanismi automatici per essere avvisati su:
+
+- **nuove proposte di Disegni di Legge**;
+- **delibere e leggi approvate**.
+
+**tre modi per farlo**:
 
   - [Posta elettronica](#posta-elettronica)
   - [Canale Telegram](#canale-telegram)
   - [Lettori di feed RSS](#lettori-di-feed-rss)
 
-## Posta elettronica
+### Posta elettronica
 
-Questo è il metodo più semplice". Basta aprire [questa pagina](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US), 1) inserire il proprio **indirizzo email**, 2) fare click sulla verifica di non essere un robot e 3) poi sul pulsante di iscrizione.
+Questo è il **metodo più semplice**.
+<br>Basta aprire la **pagina di iscrizione**, 1) inserire il proprio **indirizzo email**, 2) fare click sulla verifica di non essere un *robot* e 3) poi sul pulsante di iscrizione.
+
+Pagine di iscrizione:
+
+- **nuove proposte di Disegni di Legge** <https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US>;
+- **delibere e leggi approvate** <https://feedburner.google.com/fb/a/mailverify?uri=RegioneSicilianaDelibereEDisegniDiLeggeDelGoverno&loc=en_US>
 
 [![](./imgs/iscrizioneEmail.png)](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US)
 
-Chi si è iscritto così, riceverà un'email per confermare la cosa.
+Chi si iscriverà in questo modo, riceverà un'email per confermare la scelta.
 
-Una volta iscritti si riceverà un'email periodica, con l'elenco degli ultimi Disegni di Legge presentati (numero del disegno, titolo e link per aprire la pagina dedicata).
+Una volta iscritti si riceverà un'email periodica, con l'elenco degli ultimi Disegni di Legge presentati e/o delibere e leggi approvate.
 
 Sotto un esempio.
 
 [![](imgs/emailEsempio.png)](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US)
 
-## Canale Telegram
+### Lettore di feed RSS
 
-Per chi usa [**Telegram**](https://telegram.org/) è stato creato un canale, dove saranno pubblicate le proposte di Disegno Di Legge che entreranno nel tempo sul sito dell'ARS.
+L'output principale di questo lavoro sono dei *feed RSS* e per leggerli si può usare un lettore dedicato. Una volta installato, non rimarrà che aggiungere l'URL dei *feed* che si vogliono seguire:
 
-Per iscriversi al canale fare click qui <https://t.me/ars_unofficial> e una volta aperto il canale fare click su <kbd>UNISCITI</kbd>.
+- **nuove proposte di Disegni di Legge** <http://feeds.feedburner.com/ars_disegni_legge>;
+- **delibere e leggi approvate** <http://feeds.feedburner.com/RegioneSicilianaDelibereEDisegniDiLeggeDelGoverno>.
 
-
-[![](imgs/iscrivitiCanaleFreccia.png)](https://t.me/ars_unofficial)
-
-## Lettori di feed RSS
-
-L'output principale di questo lavoro è un *feed RSS*, quindi per leggerlo si può usare un lettore dedicato. Una volta installato, non rimarrà che aggiungere l'URL del *feed*: <http://feeds.feedburner.com/ars_disegni_legge>
-
-Alcuni esempi di lettori di *feed RSS*, installabili su *smartphone* e/o usabili da PC:
+Alcuni lettori di *feed RSS*, installabili su *smartphone* e/o usabili da PC:
 
 - feedly <https://feedly.com/>;
 - Inoreader <https://www.inoreader.com/>;
 - Tiny Tiny RSS <https://tt-rss.org/>.
 
-Una volta aggiunto, le varie proposte di Disegno Di Legge appariranno nel proprio lettore (sotto un esempio).
+Una volta aggiunti, le varie proposte di Disegno Di Legge e/o delibere e leggi approvate, appariranno nel proprio lettore (sotto un esempio).
 
 ![](./imgs/rssReader.png)
+
+### Canale Telegram
+
+Per chi usa [**Telegram**](https://telegram.org/) è stato creato un canale, dove saranno pubblicate le proposte di Disegno Di Legge e le delibere e leggi approvate.
+
+Per iscriversi al canale fare click qui <https://t.me/ars_unofficial> e una volta aperto fare click su <kbd>UNISCITI</kbd>.
+
+[![](imgs/iscrivitiCanaleFreccia.png)](https://t.me/ars_unofficial)
+
+**Nota bene**: non funziona ancora al meglio, qualche disegno non viene tracciato. Via email o via feed RSS al momento non si riscontra alcun problema.
+
+## Note
+
+### Nuove proposte di Disegni di Legge
+
+Il sito dedicato ai **disegni di legge** che vengono prensentati all'interno dell'**ARS** è <https://www.ars.sicilia.it/ms/home/cerca/221.jsp>. Sottiliniamo il fatto che **si tratta di proposte**.
+
+Molto spesso quando si aprirà l'URL della proposta di Disegno di Legge, la pagina conterrà pochissime informazioni. Questo avviene perché sembra che quando una proposta viene inserita nel sistema non è corredata da alcun documento.
+
+### Delibere e leggi approvate
+
+Il sito dedicato a **delibere e leggi approvate** è <http://www.regione.sicilia.it/deliberegiunta/index.asp>.
