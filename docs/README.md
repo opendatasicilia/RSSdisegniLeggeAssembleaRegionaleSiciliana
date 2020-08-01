@@ -1,20 +1,20 @@
 ## Essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate
 
 L'**Assemblea Regionale Siciliana** (ARS) dal 1947 è l'**organo legislativo** della **Regione siciliana**, come previsto dal suo statuto speciale (da Wikipedia).<br>
-Al momento l'unico modo per seguirne le attività è aprire le pagine dei siti internet in cui sono pubblicate notizie correlate.
+Al momento l'unico modo per seguirne le attività è aprire le pagine dei siti internet ufficiali.
 
-Abbiamo creato dei meccanismi automatici per essere avvisati su:
+Abbiamo creato allora dei **meccanismi automatici** per essere **avvisati** su:
 
 - **nuove proposte di Disegni di Legge**;
 - **delibere e leggi approvate**.
 
-**tre modi per farlo**:
+Tre modi:
 
-  - [Posta elettronica](#posta-elettronica)
-  - [Lettore di feed RSS](#lettore-di-feed-rss)
-  - [Canale Telegram](#canale-telegram)
+  - [📧 Posta elettronica](#-posta-elettronica)
+  - [📰 Lettore di feed RSS](#-lettore-di-feed-rss)
+  - [💬 Canale Telegram](#-canale-telegram)
 
-### Posta elettronica
+### 📧 Posta elettronica
 
 Questo è il **metodo più semplice**.
 <br>Basta aprire la **pagina di iscrizione**, 1) inserire il proprio **indirizzo email**, 2) fare click sulla verifica di non essere un *robot* e 3) poi sul pulsante di iscrizione.
@@ -34,7 +34,7 @@ Sotto un esempio.
 
 [![](imgs/emailEsempio.png)](https://feedburner.google.com/fb/a/mailverify?uri=ars_disegni_legge&amp;loc=en_US)
 
-### Lettore di feed RSS
+### 📰 Lettore di feed RSS
 
 L'output principale di questo lavoro sono dei *feed RSS* e per leggerli si può usare un lettore dedicato. Una volta installato, non rimarrà che aggiungere l'URL dei *feed* che si vogliono seguire:
 
@@ -51,7 +51,7 @@ Una volta aggiunti, le varie proposte di Disegno Di Legge e/o delibere e leggi a
 
 ![](./imgs/rssReader.png)
 
-### Canale Telegram
+### 💬 Canale Telegram
 
 Per chi usa [**Telegram**](https://telegram.org/) è stato creato un canale, dove saranno pubblicate le proposte di Disegno Di Legge e le delibere e leggi approvate.
 
