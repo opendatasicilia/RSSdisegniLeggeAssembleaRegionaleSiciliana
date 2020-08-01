@@ -6,6 +6,6 @@ relative_links:
 include:
   - README.md
 remote_theme: "pages-themes/primer"
-title: Avvisi Disegni di Legge ARS
-description: Per essere aggiornati sui disegni di legge dell'Assemblea Regionale Siciliana
+title: Disegni di Legge ARS e delibere e leggi approvate
+description: Per essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate
 lang: it-IT
