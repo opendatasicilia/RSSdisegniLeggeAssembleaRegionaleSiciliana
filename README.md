@@ -1,5 +1,5 @@
-# Per sapere quando un nuovo Disegno di Legge entra all'Assemblea Regionale Siciliana
+## Essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate
 
-A partire dalla pagina dei disegni di legge abbiamo costruito un *feed RSS* per rimanere aggiornati sulle attività dell'Assemblea Regionale Siciliana, e in particolare dei **disegni di legge** che vengono presentati in quel contesto.
+A partire da alcune pagine web ufficiali abbiamo costruito dei *feed RSS* per rimanere aggiornati sulle attività dell'Assemblea Regionale Siciliana e della Regione Siciliana.
 
-Maggiori dettagli [qui](./docs/README.md).
+Maggiori dettagli [**qui**](./docs/README.md).

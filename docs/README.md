@@ -1,11 +1,3 @@
-- [Essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate](#essere-avvisati-per-nuove-proposte-di-disegni-di-legge-dellassemblea-regionale-siciliana-ars-e-per-delibere-e-leggi-approvate)
-  - [Posta elettronica](#posta-elettronica)
-  - [Lettore di feed RSS](#lettore-di-feed-rss)
-  - [Canale Telegram](#canale-telegram)
-- [Note](#note)
-  - [Nuove proposte di Disegni di Legge](#nuove-proposte-di-disegni-di-legge)
-  - [Delibere e leggi approvate](#delibere-e-leggi-approvate)
-
 ## Essere avvisati per nuove proposte di Disegni di Legge dell'Assemblea Regionale Siciliana (ARS) e per delibere e leggi approvate
 
 L'**Assemblea Regionale Siciliana** (ARS) dal 1947 è l'**organo legislativo** della **Regione siciliana**, come previsto dal suo statuto speciale (da Wikipedia).<br>
@@ -19,8 +11,8 @@ Abbiamo creato dei meccanismi automatici per essere avvisati su:
 **tre modi per farlo**:
 
   - [Posta elettronica](#posta-elettronica)
+  - [Lettore di feed RSS](#lettore-di-feed-rss)
   - [Canale Telegram](#canale-telegram)
-  - [Lettori di feed RSS](#lettori-di-feed-rss)
 
 ### Posta elettronica
 
