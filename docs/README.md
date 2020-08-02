@@ -3,10 +3,10 @@
 L'**Assemblea Regionale Siciliana** (ARS) dal 1947 è l'**organo legislativo** della **Regione siciliana**, come previsto dal suo statuto speciale (da Wikipedia).<br>
 Al momento l'unico modo per seguirne le attività è aprire le pagine dei siti internet ufficiali.
 
-Abbiamo creato allora dei **meccanismi automatici** per essere **avvisati** su:
+Noi di [OpenDataSicilia](https://groups.google.com/forum/#!categories/opendatasicilia) allora abbiamo creato dei **meccanismi automatici** per essere **avvisati** su:
 
 - **nuove proposte di Disegni di Legge**;
-- **delibere e leggi approvate**.
+- **nuove delibere e leggi approvate**.
 
 Tre modi:
 
