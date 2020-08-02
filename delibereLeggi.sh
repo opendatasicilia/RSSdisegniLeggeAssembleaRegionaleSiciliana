@@ -1,10 +1,5 @@
 #!/bin/bash
 
-<<note
-- fare check su campo  data che non è formattato sempre dd/mm/yyyy
-  - alle volte è 14.06.2020
-note
-
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
