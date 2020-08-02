@@ -72,3 +72,10 @@ Molto spesso quando si aprirà l'URL della proposta di Disegno di Legge, la pagi
 ### Delibere e leggi approvate
 
 Il sito dedicato a **delibere e leggi approvate** è <http://www.regione.sicilia.it/deliberegiunta/index.asp>.
+
+## Dati
+
+I dati raccolti per creare questi avvisi vengono archiviati nei seguenti CSV, giornalmente aggiornati e pubblicati con licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it):
+
+- [nuove proposte di Disegni di Legge](disegniLegge_latest.csv);
+- [delibere e leggi approvate](delibereLeggi.csv).
