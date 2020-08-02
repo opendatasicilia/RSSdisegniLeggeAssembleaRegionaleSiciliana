@@ -36,7 +36,7 @@ Sotto un esempio.
 
 ### 📰 Lettore di feed RSS
 
-L'output principale di questo lavoro sono dei *feed RSS* e per leggerli si può usare un lettore dedicato. Una volta installato, non rimarrà che aggiungere l'URL dei *feed* che si vogliono seguire:
+L'output principale di questo lavoro sono dei *feed RSS* e per leggerli si può usare un lettore dedicato. Una volta installato, non rimarrà che aggiungere l'URL del *feed* che si vuole seguire:
 
 - **nuove proposte di Disegni di Legge** <http://feeds.feedburner.com/ars_disegni_legge>;
 - **delibere e leggi approvate** <http://feeds.feedburner.com/RegioneSicilianaDelibereEDisegniDiLeggeDelGoverno>.
