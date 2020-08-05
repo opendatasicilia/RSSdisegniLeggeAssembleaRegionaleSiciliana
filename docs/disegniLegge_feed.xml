@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 821</title>
+      <description>Disegno di legge voto ai sensi dell'art. 18 dello Statuto della Regione siciliana recante disposizioni finalizzate a consentire il riavvio della realizzazione del Ponte sullo Stretto di Messina</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28821%29.NUMDDL%29</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28821%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 820</title>
+      <description>Legge voto da sottoporre al Parlamento della Repubblica, ai sensi dell'articolo 18 dello Statuto, recante Realizzazione del Ponte sullo Stretto di Messina</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28820%29.NUMDDL%29</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28820%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 819</title>
+      <description>Disegno di legge voto da sottoporre al parlamento della repubblica, ai sensi dell'articolo 18 dello statuto, recante realizzazione del ponte sullo stretto di Messina</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28819%29.NUMDDL%29</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28819%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 817</title>
       <description>Norme per la unificazione dei fondi di rotazione regionali - istituzione del Fondo unico regionale di rotazione</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28817%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28805%29.NUMDDL%29</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28805%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 801</title>
-      <description>Valorizzazione e promozione delle espressioni artistiche in strada Street Art in Sicilia</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28801%29.NUMDDL%29</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28801%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 800</title>
-      <description>Norme in materia di autorizzazione alla costruzione ed esercizio di impianti elettrici non facenti parte della rete di trasmissione nazionale.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28800%29.NUMDDL%29</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28800%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 799</title>
-      <description>Norme per sostenere la filiera agro-industriale della Cannabis sativa L.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28799%29.NUMDDL%29</link>
-      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28799%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
