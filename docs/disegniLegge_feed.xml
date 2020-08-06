@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 823</title>
+      <description>Disegno di legge voto da sottoporre al Parlamento della Repubblica, ai sensi dell'art.18 dello Statuto,recante Realizzazione del Ponte sullo Stretto di Messina</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28823%29.NUMDDL%29</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28823%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 822</title>
+      <description>Norme per l'accesso alle spiagge degli animali da affezione</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28822%29.NUMDDL%29</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28822%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 821</title>
       <description>Disegno di legge voto ai sensi dell'art. 18 dello Statuto della Regione siciliana recante disposizioni finalizzate a consentire il riavvio della realizzazione del Ponte sullo Stretto di Messina</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28821%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28803%29.NUMDDL%29</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28803%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 802</title>
-      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2020 - mese Marzo</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28802%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28802%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 805</title>
-      <description>Modifiche alla L.R. 12 maggio 2020 n. 9</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28805%29.NUMDDL%29</link>
-      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28805%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
