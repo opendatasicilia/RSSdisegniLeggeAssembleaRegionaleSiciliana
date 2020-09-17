@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 842</title>
+      <description>Disposizioni per la tutela dei corpi idrici della Regione Siciliana, per la valorizzazione integrata dei bacini e sottobacini idrografici e la diffusione dei Contratti di Fiume</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28842%29.NUMDDL%29</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28842%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 841</title>
+      <description>Norme in materia di estinzione delle IPAB, modifiche all'art. 34 della legge regionale n. 22/1986</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28841%29.NUMDDL%29</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28841%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 840</title>
+      <description>Norme in materia di ordinamento regionale dei corpi e servizi di polizia municipale e provinciale. Istituzione del corpo di polizia locale</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28840%29.NUMDDL%29</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28840%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 838</title>
       <description>Norme in materia di turismo religioso e riconoscimento dei cammini di interesse regionale</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28838%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28812%29.NUMDDL%29</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28812%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 825</title>
-      <description>Disposizioni contabili ai sensi del decreto legislativo 23 giugno 2011, n. 118 - Allegato 4/2, paragrafo 6.3</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28825%29.NUMDDL%29</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28825%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 824</title>
-      <description>Norme in materia di enti locali</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28824%29.NUMDDL%29</link>
-      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28824%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 835</title>
-      <description>Contributo straordinario per i Comuni siciliani colpiti dagli incendi</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28835%29.NUMDDL%29</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28835%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
