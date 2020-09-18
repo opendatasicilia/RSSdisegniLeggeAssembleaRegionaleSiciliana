@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>395</title>
+      <description>Programma Operativo FESR Sicilia 2014/2020. Documento 'Requisiti di ammissibilità e criteri di selezione'. Modifica Azioni 1.6.1 e 5.3.2</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.395_15.09.2020.pdf</link>
+      <pubDate/>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.395_15.09.2020.pdf</guid>
+    </item>
+    <item>
       <title>393</title>
       <description>Programma Operativo FESR Sicilia 2014/2020. Proposta Basi giuridiche relative alle Azioni 3.1.1.04a e 3.1.1.5 a seguito della riprogrammazione per effetto della pandemia da COVID-19 ex legge regionale 12 maggio 2020, n.9</description>
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.393_10.09.2020.pdf</link>
@@ -209,13 +216,6 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.365_03.09.2020.pdf</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.365_03.09.2020.pdf</guid>
-    </item>
-    <item>
-      <title>364</title>
-      <description>Acquisizione dell'immobile denominato Casa del Mutilato sito in Catania, Piazza Vincenzo Bellini, n. 6a</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.364_31.08.2020.pdf</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.364_31.08.2020.pdf</guid>
     </item>
   </channel>
 </rss>
