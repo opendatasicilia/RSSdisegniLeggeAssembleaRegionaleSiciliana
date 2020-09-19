@@ -8,11 +8,25 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>400</title>
+      <description>Accordo di Programma per la realizzazione degli interventi di messa in sicurezza e bonifica delle aree comprese nel Sito di Interesse Nazionale di Biancavilla - Apprezzamento</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.400_15.09.2020.pdf</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.400_15.09.2020.pdf</guid>
+    </item>
+    <item>
       <title>395</title>
       <description>Programma Operativo FESR Sicilia 2014/2020. Documento 'Requisiti di ammissibilità e criteri di selezione'. Modifica Azioni 1.6.1 e 5.3.2</description>
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.395_15.09.2020.pdf</link>
       <pubDate/>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.395_15.09.2020.pdf</guid>
+    </item>
+    <item>
+      <title>394</title>
+      <description>Autorizzazione per la costituzione parte civile della Presidenza della Regione Siciliana nel procedimento penale XXXXXXXXX a carico di XXXXXXXXX</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.394_15.09.2020%20con%20omissis.pdf</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.394_15.09.2020%20con%20omissis.pdf</guid>
     </item>
     <item>
       <title>393</title>
@@ -202,20 +216,6 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.367_03.09.2020.pdf</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.367_03.09.2020.pdf</guid>
-    </item>
-    <item>
-      <title>366</title>
-      <description>Campagna di comunicazione unitaria dei Programmi comunitari regionali</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.366_03.09.2020.pdf</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.366_03.09.2020.pdf</guid>
-    </item>
-    <item>
-      <title>365</title>
-      <description>Approvazione disegno di legge: 'Interventi nel settore della forestazione'</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.365_03.09.2020.pdf</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.365_03.09.2020.pdf</guid>
     </item>
   </channel>
 </rss>
