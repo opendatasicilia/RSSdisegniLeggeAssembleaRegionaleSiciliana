@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 845</title>
+      <description>Misure urgenti per il rilancio delle attività produttive a seguito dell'emergenza Covid 19 Rigenerazione aree ed opifici industriali degli agglomerati gestiti dall'IRSAP</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28845%29.NUMDDL%29</link>
+      <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28845%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 843</title>
       <description>Nuovo Ordinamento per la costituzione del Consorzio Regionale per la protezione ambientale della Regione Sicilia</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28843%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28822%29.NUMDDL%29</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28822%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 821</title>
-      <description>Disegno di legge voto ai sensi dell'art. 18 dello Statuto della Regione siciliana recante disposizioni finalizzate a consentire il riavvio della realizzazione del Ponte sullo Stretto di Messina</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28821%29.NUMDDL%29</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28821%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
