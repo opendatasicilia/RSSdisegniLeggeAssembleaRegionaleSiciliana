@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 848</title>
+      <description>Disegno di legge voto da sottoporre al Parlamento della Repubblica Italiana, ai sensi dell'art. 18 dello Statuto della Regione siciliana, recante Modifiche al decreto legislativo 21 aprile 2011, n. 67</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28848%29.NUMDDL%29</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28848%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 847</title>
       <description>Accesso dei disabili motori ai percorsi escursionistici</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28847%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28828%29.NUMDDL%29</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28828%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 827</title>
-      <description>Modifiche alla Legge Regionale 23 dicembre 2000, n. 30 - Istituzione di nuovi comuni</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28827%29.NUMDDL%29</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28827%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
