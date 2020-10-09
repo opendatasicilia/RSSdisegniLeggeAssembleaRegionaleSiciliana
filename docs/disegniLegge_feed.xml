@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 850</title>
+      <description>Istituzione del servizio di Psicologia di base</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28850%29.NUMDDL%29</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28850%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 844</title>
+      <description>Modifiche all'articolo 4 della legge regionale 3 marzo 2020, n. 3. Disposizioni in materia di contrasto all'inquinamento</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28844%29.NUMDDL%29</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28844%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 849</title>
+      <description>Disposizioni urgenti al fine di contenere i danni causati dall'incendio divampato nei Comuni di Naso, Frazzanò, Mirto, San Marco d'Alunzio, Longi, Santo Stefano di Camastra e Reitano e nelle abitazioni circostanti, sabato 3 ottobre 2020</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28849%29.NUMDDL%29</link>
+      <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28849%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 848</title>
       <description>Disegno di legge voto da sottoporre al Parlamento della Repubblica Italiana, ai sensi dell'art. 18 dello Statuto della Regione siciliana, recante Modifiche al decreto legislativo 21 aprile 2011, n. 67</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28848%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28831%29.NUMDDL%29</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28831%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 830</title>
-      <description>Contributo ai Comuni - rimodulazione del piano di riequilibrio economico-finanziario, ai sensi del comma 5, art.243 bis TUEL</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28830%29.NUMDDL%29</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28830%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 829</title>
-      <description>Disposizioni urgenti al fine di contenere i danni causati dall'alluvione verificatosi nei Comuni di Barcellona Pozzo di Gotto, Terme Vigliatore, Rodì Milici e Castroreale e nel territorio circostante, l'8 agosto 2020</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28829%29.NUMDDL%29</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28829%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 828</title>
-      <description>Disposizioni urgenti al fine di contenere i danni causati dall'alluvione verificatosi nella città di Messina, nei borghi di Ganzirri e Torre Faro e nel territorio circostante, il 7 agosto 2020</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28828%29.NUMDDL%29</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28828%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
