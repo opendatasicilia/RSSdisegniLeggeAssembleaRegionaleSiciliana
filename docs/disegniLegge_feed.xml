@@ -15,6 +15,13 @@
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28712%29.NUMDDL%29</guid>
     </item>
     <item>
+      <title>Disegno di legge 883</title>
+      <description>Norme per l'utilizzo dei farmaci nelle strutture pubbliche e private</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28883%29.NUMDDL%29</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28883%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 880</title>
       <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera e) del decreto legislativo 23 giugno 2011, n.118 e successive modifiche ed integrazioni. D.F.B. 2020 mese di luglio.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28880%29.NUMDDL%29</link>
@@ -34,6 +41,20 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28878%29.NUMDDL%29</link>
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28878%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 882</title>
+      <description>Istituzione figura dello Psicologo delle Cure Primarie post Covid 19</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28882%29.NUMDDL%29</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28882%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 881</title>
+      <description>Modifiche alle leggi regionali 14 aprile 2009, n. 5 e 12 maggio 2020, n. 9.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28881%29.NUMDDL%29</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28881%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 877</title>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28869%29.NUMDDL%29</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28869%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 862</title>
-      <description>Norme in materia di personale della Regione Siciliana.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28862%29.NUMDDL%29</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28862%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 861</title>
-      <description>Norme per il funzionamento del Corpo Forestale della Regione Siciliana.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28861%29.NUMDDL%29</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28861%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 864</title>
-      <description>Modifiche al Regolamento delle pensioni dei deputati dell'Assemblea Regionale Siciliana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28864%29.NUMDDL%29</link>
-      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28864%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
