@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 941</title>
+      <description>Norme per lo snellimento delle procedure relative agli interventi negli impianti di depurazione pubblici</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28941%29.NUMDDL%29</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28941%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 940</title>
       <description>Modifiche alla legge regionale 16 dicembre 2020, n. 32. Norme per garantire l'accesso al mare per i soggetti diversamente abili</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28940%29.NUMDDL%29</link>
@@ -86,7 +93,7 @@
     </item>
     <item>
       <title>Disegno di legge 712</title>
-      <description>Documento n. 12</description>
+      <description>Documento n. 13</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28712%29.NUMDDL%29</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28712%29.NUMDDL%29</guid>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28929%29.NUMDDL%29</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28929%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 928</title>
-      <description>Disposizioni per la promozione del consumo consapevole di prodotti agro-alimentari sostenibili e di qualità e la promozione delle filiere 'corte'</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28928%29.NUMDDL%29</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28928%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
