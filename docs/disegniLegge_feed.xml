@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 942</title>
+      <description>Modifiche alla legge regionale del 20 marzo 1951, n. 29, inserimento della doppia preferenza di genere per l'elezione dei Deputati dell'Assemblea Regionale Siciliana</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28942%29.NUMDDL%29</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28942%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 941</title>
       <description>Norme per lo snellimento delle procedure relative agli interventi negli impianti di depurazione pubblici</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28941%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28912%29.NUMDDL%29</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28912%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 938</title>
-      <description>Norma per lo STOP AL NUCLEARE in Sicilia</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28938%29.NUMDDL%29</link>
-      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28938%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
