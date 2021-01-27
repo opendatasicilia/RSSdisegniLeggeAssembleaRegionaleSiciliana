@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 952</title>
+      <description>introduzione della preferenza di genere per l'elezione dell'assemblea regionale siciliana</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28952%29.NUMDDL%29</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28952%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 951</title>
+      <description>Legge quadro in materia di assistenza e gestione del fenomeno immigratorio</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28951%29.NUMDDL%29</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28951%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 950</title>
+      <description>Norme per la liquidazione del contributo previsto e disciplinato dall'art. 5 della Legge Regionale n. 29/1996</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28950%29.NUMDDL%29</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28950%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 949</title>
       <description>Istituzione dell'Unità Regionale di Pedagogia Scolastica per la promozione del diritto all'educazione e allo studio</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28949%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28928%29.NUMDDL%29</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28928%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 926</title>
-      <description>Interpretazione delle disposizioni di cui all'articolo 51, comma 3 e all'art. 52 commi 1 e 6 della legge regionale 9/2015</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28926%29.NUMDDL%29</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28926%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 925</title>
-      <description>Disposizioni per lo smaltimento dei PFU - Pneumatici Fuori Uso</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28925%29.NUMDDL%29</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28925%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 924</title>
-      <description>Disposizioni urgenti di sostegno della filiera della ristorazione siciliana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28924%29.NUMDDL%29</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28924%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
