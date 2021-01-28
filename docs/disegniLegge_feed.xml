@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 953</title>
+      <description>Modifica dell'articolo 6, della legge regionale 21 ottobre 2020, n. 24 norme per la prevenzione ed il trattamento del disturbo da gioco</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28953%29.NUMDDL%29</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28953%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 952</title>
       <description>introduzione della preferenza di genere per l'elezione dell'assemblea regionale siciliana</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28952%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28929%29.NUMDDL%29</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28929%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 928</title>
-      <description>Disposizioni per la promozione del consumo consapevole di prodotti agro-alimentari sostenibili e di qualità e la promozione delle filiere 'corte'</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28928%29.NUMDDL%29</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28928%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
