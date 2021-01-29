@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>40</title>
+      <description>Manifestazione di volontà al Governo nazionale in relazione alla grave situazione economica del settore produttivo in Sicilia a seguito del perdurare dell'emergenza sanitaria da COVID-19</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.040_26.01.2021.pdf</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.040_26.01.2021.pdf</guid>
+    </item>
+    <item>
+      <title>39</title>
+      <description>Rendiconto Generale della Regione Siciliana per l?esercizio finanziario 2019 ? Adempimenti in autotutela</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.039_26.01.2021.pdf</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.039_26.01.2021.pdf</guid>
+    </item>
+    <item>
       <title>38</title>
       <description>Approvazione verbale n. 40 relativo alla seduta della Giunta regionale del 26 settembre 2018</description>
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.038_21.01.2021.pdf</link>
@@ -202,20 +216,6 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.011_14.01.2021.pdf</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.011_14.01.2021.pdf</guid>
-    </item>
-    <item>
-      <title>10</title>
-      <description>FSC 2014/2020. Aggiornamento dell'elenco degli interventi dell'Allegato B del Patto per lo Sviluppo della Regione Siciliana post deliberazione della Giunta regionale n. 3 del 3 gennaio 2019. Presa d'atto</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.010_14.01.2021.pdf</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.010_14.01.2021.pdf</guid>
-    </item>
-    <item>
-      <title>9</title>
-      <description>Programmazione 2014/2020. Agenda Urbana regionale. Approvazione modifica Strategia di Sviluppo Urbano Sostenibile della città di Messina</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.009_14.01.2021.pdf</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.009_14.01.2021.pdf</guid>
     </item>
   </channel>
 </rss>
