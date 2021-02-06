@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>62</title>
+      <description>Risorse FSC 2014-2020 riprogrammate. Legge regionale 12 maggio 2020, n.9, articolo 13. Elenco degli interventi di manutenzione straordinaria degli immobili</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.062_29.01.2021.pdf</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.062_29.01.2021.pdf</guid>
+    </item>
+    <item>
       <title>61</title>
       <description>Approvazione verbale n. 52 relativo alla seduta della Giunta regionale del 15 novembre 2018</description>
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.061_29.01.2021.pdf</link>
@@ -97,6 +104,13 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.049_29.01.2021.pdf</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.049_29.01.2021.pdf</guid>
+    </item>
+    <item>
+      <title>48</title>
+      <description>Valorizzazione dell?edificio Costanza Gravina, dell?ex Ospedale Vittorio Emanuele di Catania - Apprezzamento</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.048_29.01.2021.pdf</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.048_29.01.2021.pdf</guid>
     </item>
     <item>
       <title>47</title>
@@ -202,20 +216,6 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.033_21.01.2021.pdf</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.033_21.01.2021.pdf</guid>
-    </item>
-    <item>
-      <title>32</title>
-      <description>Approvazione verbale n. 34 relativo alla seduta della Giunta regionale del 25 luglio 2018</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.032_21.01.2021.pdf</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.032_21.01.2021.pdf</guid>
-    </item>
-    <item>
-      <title>31</title>
-      <description>Approvazione verbale n. 33 relativo alla seduta della Giunta regionale del 18 luglio 2018</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.031_21.01.2021.pdf</link>
-      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.031_21.01.2021.pdf</guid>
     </item>
   </channel>
 </rss>
