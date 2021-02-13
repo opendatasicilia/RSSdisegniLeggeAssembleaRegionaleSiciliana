@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>80</title>
+      <description>Approvazione disegno di legge: Legge di stabilit� regionale 2021/2023</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.080_05.02.2021.pdf</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.080_05.02.2021.pdf</guid>
+    </item>
+    <item>
+      <title>79</title>
+      <description>Approvazione disegno di legge: Bilancio di previsione della Regione Siciliana per il triennio 2021/2023</description>
+      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.079_05.02.2021.pdf</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.079_05.02.2021.pdf</guid>
+    </item>
+    <item>
       <title>78</title>
       <description>Decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. Stima delle entrate e delle spese di fondi regionali a destinazione vincolata al 31 dicembre 2020. Stima delle entrate e spese vincolate al 31 dicembre 2020 e destinate agli investimenti. Avanzo finanziario presunto dei fondi extraregionali?</description>
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.078_04.02.2021.pdf</link>
@@ -202,20 +216,6 @@
       <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.051_29.01.2021.pdf</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.051_29.01.2021.pdf</guid>
-    </item>
-    <item>
-      <title>50</title>
-      <description>Approvazione verbale n. 41 relativo alla seduta della Giunta regionale dell'1 ottobre 2018</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.050_29.01.2021.pdf</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.050_29.01.2021.pdf</guid>
-    </item>
-    <item>
-      <title>49</title>
-      <description>Schema di decreto del Ministero dell'ambiente e della tutela del territorio e del mare relativo alla designazione quale Zona Speciale di Conservazione (ZSC) del Sito di Importanza Comunitaria (SIC) della Rete Natura 2000 della Sicilia - Monte San Calogero (Kronio) ricadente nel Comune di Sciacca (AG). Intesa della Regione Siciliana</description>
-      <link>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.049_29.01.2021.pdf</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.049_29.01.2021.pdf</guid>
     </item>
   </channel>
 </rss>
