@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 966</title>
+      <description>Istituzione del Garante regionale dei diritti degli animali. Modifiche ed integrazioni alla legge regionale 3 luglio 2000, n. 15</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28966%29.NUMDDL%29</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28966%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 965</title>
+      <description>Disposizioni in materia di elezione del Sindaco e del Consiglio comunale nei comuni con popolazione compresa tra 10.000 e 15.000 abitanti</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28965%29.NUMDDL%29</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28965%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 962</title>
       <description>Legge di stabilità regionale 2021/2023</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28962%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28947%29.NUMDDL%29</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28947%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 946</title>
-      <description>Disposizioni per la prevenzione e la cura della nomofobia</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28946%29.NUMDDL%29</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28946%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 945</title>
-      <description>Modifiche in materia di concessioni e coltivazione di giacimenti di acque termali, legge Regionale del 1° ottobre 1956 n°54, recante Disciplina della ricerca e coltivazione delle sostanze minerali nella Regione</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28945%29.NUMDDL%29</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28945%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
