@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 968</title>
+      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'articolo 18 dello Statuto della Regione, recante Disposizioni concernenti Istituzione di un fondo di solidarietà per l'erogazione di contributi a fondo perduto in favore</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28968%29.NUMDDL%29</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28968%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 967</title>
+      <description>Norme in materia di valutazione dell'insindacabilità dei deputati regionali, ai sensi dell'articolo 122, quarto comma, della Costituzione e dell'articolo 6 dello Statuto Speciale della Regione Siciliana</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28967%29.NUMDDL%29</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28967%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 966</title>
       <description>Istituzione del Garante regionale dei diritti degli animali. Modifiche ed integrazioni alla legge regionale 3 luglio 2000, n. 15</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28966%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28949%29.NUMDDL%29</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28949%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 948</title>
-      <description>Potenziamento competenze per i centri per l'impiego Siciliani</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28948%29.NUMDDL%29</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28948%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 947</title>
-      <description>Norme per promuovere la mobilità sostenibile</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28947%29.NUMDDL%29</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28947%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
