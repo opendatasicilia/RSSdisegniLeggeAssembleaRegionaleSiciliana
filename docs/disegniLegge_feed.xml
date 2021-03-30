@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 974</title>
+      <description>Proroga all'esercizio provvisorio del bilancio della Regione per l'esercizio finanziario 2021</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28974%29.NUMDDL%29</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28974%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 973</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B.2021 - mese di gennaio.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28973%29.NUMDDL%29</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28973%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 972</title>
       <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'articolo 18 dello Statuto della Regione, recante Disposizioni concernenti Istituzione di un fondo di solidarietà per l'erogazione di contributi a fondo perduto in favore</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28972%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28955%29.NUMDDL%29</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28955%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 954</title>
-      <description>Istituzione della Consulta regionale della famiglia</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28954%29.NUMDDL%29</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28954%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 953</title>
-      <description>Modifica dell'articolo 6, della legge regionale 21 ottobre 2020, n. 24 Norme per la prevenzione ed il trattamento del disturbo da gioco d'azzardo</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28953%29.NUMDDL%29</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28953%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
