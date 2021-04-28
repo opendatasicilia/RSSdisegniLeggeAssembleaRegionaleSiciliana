@@ -8,6 +8,34 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 993</title>
+      <description>Istituzione del Centro di restauro del legno bagnato</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28993%29.NUMDDL%29</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28993%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 991</title>
+      <description>Norme in materia di nuove qualifiche professionali accessibili ai non vedenti e modifiche alla Legge Regionale n. 60/1976</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28991%29.NUMDDL%29</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28991%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 990</title>
+      <description>Disposizioni per il coordinamento degli interventi contro la povertà e l'esclusione sociale</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28990%29.NUMDDL%29</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28990%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 989</title>
+      <description>Norme in materia di spettacolo dal vivo</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28989%29.NUMDDL%29</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28989%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 983</title>
       <description>Disposizioni per la promozione dell'impiego del bilancio di sostenibilità</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28983%29.NUMDDL%29</link>
@@ -41,6 +69,13 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28975%29.NUMDDL%29</link>
       <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28975%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 970</title>
+      <description>Norme in materia di recupero del patrimonio abitativo degli enti locali</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28970%29.NUMDDL%29</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28970%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 969</title>
@@ -106,46 +141,11 @@
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28971%29.NUMDDL%29</guid>
     </item>
     <item>
-      <title>Disegno di legge 970</title>
-      <description>Norme in materia di recupero del patrimonio abitativo degli enti locali</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28970%29.NUMDDL%29</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28970%29.NUMDDL%29</guid>
-    </item>
-    <item>
       <title>Disegno di legge 968</title>
       <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'articolo 18 dello Statuto della Regione, recante Disposizioni concernenti Istituzione di un fondo di solidarietà per l'erogazione di contributi a fondo perduto in favore</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28968%29.NUMDDL%29</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28968%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 967</title>
-      <description>Norme in materia di valutazione dell'insindacabilità dei deputati regionali, ai sensi dell'articolo 122, quarto comma, della Costituzione e dell'articolo 6 dello Statuto Speciale della Regione Siciliana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28967%29.NUMDDL%29</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28967%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 965</title>
-      <description>Disposizioni in materia di elezione del Sindaco e del Consiglio comunale nei comuni con popolazione compresa tra 10.000 e 15.000 abitanti</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28965%29.NUMDDL%29</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28965%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 964</title>
-      <description>Istituzione della giornata regionale in memoria delle vittime dell'epidemia di Covid19</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28964%29.NUMDDL%29</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28964%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 963</title>
-      <description>Modifica degli articoli 4 e 7 della legge regionale 29 dicembre 2014 n. 29 così come modificati dall'articolo 56 della legge regionale 11 agosto 2017 n.16: Norme in materia di promozione e tutela dell'attività fisico-motoria e sportiva</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28963%29.NUMDDL%29</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28963%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
