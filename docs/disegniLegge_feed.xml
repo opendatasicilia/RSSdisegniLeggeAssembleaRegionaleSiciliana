@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1010</title>
+      <description>Abrogazione della legge regionale 21 ottobre 2020, n. 24 'norme per la prevenzione ed il trattamento del disturbo da gioco d'azzardo'</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281010%29.NUMDDL%29</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281010%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1009</title>
+      <description>Norme per il superamento del precariato del comparto agro-forestale e ambientale, acquisizione di nuove competenze. Modifiche ed integrazioni della legge regionale 6 aprile 1996 n. 16 e ss.mm.ii</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281009%29.NUMDDL%29</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281009%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1008</title>
+      <description>Rimozione, dalla toponomastica dei Comuni della Sicilia, dei nomi di autori di stragi perpetrate conto la popolazione civile da parte di ufficiali garibaldini</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281008%29.NUMDDL%29</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281008%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1007</title>
       <description>Misure sanzionatorie/amministrative per il contrasto agli incendi boschivi nel territorio siciliano, ai sensi degli artt. 423 (incendio) e 423 bis (incendio boschivo) del Codice Penale.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281007%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28996%29.NUMDDL%29</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28996%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 995</title>
-      <description>Disposizioni per la gestione dei beni sequestrati e confiscati alla criminalità organizzata</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28995%29.NUMDDL%29</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28995%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 987</title>
-      <description>Accorpamento dei centri regionali di cui all'articolo 9 della legge regionale 1 agosto 1977, n. 80 ex disegno di legge 'Istituzione del Centro Regionale per la Documentazione e il Restauro'</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28987%29.NUMDDL%29</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28987%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 986</title>
-      <description>Rinvio delle elezioni degli organi degli enti locali e degli enti di area vasta per l'anno 2021</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28986%29.NUMDDL%29</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28986%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
