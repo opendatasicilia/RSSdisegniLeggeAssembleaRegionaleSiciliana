@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 998</title>
+      <description>Norme in materia di valorizzazione e riclassificazione del personale non dirigenziale della Regione siciliana</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28998%29.NUMDDL%29</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28998%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1010</title>
       <description>Abrogazione della legge regionale 21 ottobre 2020, n. 24 'norme per la prevenzione ed il trattamento del disturbo da gioco d'azzardo'</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281010%29.NUMDDL%29</link>
@@ -125,13 +132,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28999%29.NUMDDL%29</link>
       <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28999%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 998</title>
-      <description>Norme in materia di valorizzazione e riclassificazione del personale non dirigenziale della Regione siciliana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28998%29.NUMDDL%29</link>
-      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28998%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 997</title>
