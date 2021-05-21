@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1013</title>
+      <description>Disposizioni in materia di attività di tirocinio e formative degli specializzandi presso le strutture ospedaliere delle Aziende Sanitarie Provinciali.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281013%29.NUMDDL%29</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281013%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1012</title>
+      <description>DA INSERIRE TITOLO</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281012%29.NUMDDL%29</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281012%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1011</title>
+      <description>Schema di progetto di legge voto da proporre al Parlamento della Repubblica, ai sensi dell'art.18 dello Statuto della Regione siciliana, recante Delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea -</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281011%29.NUMDDL%29</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281011%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1007</title>
       <description>Misure sanzionatorie/amministrative per il contrasto agli incendi boschivi nel territorio siciliano, ai sensi degli artt. 423 (incendio) e 423 bis (incendio boschivo) del Codice Penale.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281007%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28991%29.NUMDDL%29</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28991%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 990</title>
-      <description>Disposizioni per il coordinamento degli interventi contro la povertà e l'esclusione sociale</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28990%29.NUMDDL%29</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28990%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 989</title>
-      <description>Norme in materia di spettacolo dal vivo</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28989%29.NUMDDL%29</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28989%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 982</title>
-      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica ai sensi dell'articolo 18 dello Statuto della Regione recante Modifiche al decreto legislativo 7 settembre 2012, n. 155 Nuova organizzazione dei tribunali ordinari e degli uffici del pu</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28982%29.NUMDDL%29</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28982%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
