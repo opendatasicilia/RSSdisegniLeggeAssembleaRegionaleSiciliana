@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 994</title>
+      <description>Modifiche all'articolo 5, commi 8, 9 e 15 della legge regionale 12 maggio 2020, n. 9</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28994%29.NUMDDL%29</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28994%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1013</title>
       <description>Disposizioni in materia di attività di tirocinio e formative degli specializzandi presso le strutture ospedaliere delle Aziende Sanitarie Provinciali.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281013%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28993%29.NUMDDL%29</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28993%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 991</title>
-      <description>Norme in materia di nuove qualifiche professionali accessibili ai non vedenti e modifiche alla Legge Regionale n. 60/1976</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28991%29.NUMDDL%29</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%28991%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
