@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1018</title>
+      <description>Termine ultimo per la presentazione delle istanze di proroga delle concessioni demaniali marittime</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1022</title>
       <description>Riordino della gestione delle riserve naturali e della rete Natura 2000</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281022%29.NUMDDL%29</link>
@@ -34,13 +41,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281019%29.NUMDDL%29</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281019%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1018</title>
-      <description>Termine ultimo per la presentazione delle istanza di proroga delle concessioni demaniali marittime</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 1017</title>
