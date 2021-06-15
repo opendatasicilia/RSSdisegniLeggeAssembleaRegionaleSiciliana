@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1024</title>
+      <description>Disposizioni per il settore della forestazione</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281024%29.NUMDDL%29</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281024%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1018</title>
       <description>Termine ultimo per la presentazione delle istanze di proroga delle concessioni demaniali marittime</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281005%29.NUMDDL%29</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281005%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1004</title>
-      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'art. 18 dello Statuto della Regione Siciliana recante Modifica art. 1 del D.L. 27/12/1989, n. 413, convertito con modificazioni in Legge 28/02/1990, n. 3 - Raggiungimento</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281004%29.NUMDDL%29</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281004%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
