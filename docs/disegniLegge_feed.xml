@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1030</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1 lettera e) del decreto legislativo 23 giugno 2011 n. 118 e successive modifiche ed integrazioni D.F.B. terzo quadrimestre 2020.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281030%29.NUMDDL%29</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281030%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1029</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1 lettera a) del decreto legislativo 23 giugno 2011 n. 118 e successive modifiche ed integrazioni D.F.B. terzo quadrimestre 2020.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281029%29.NUMDDL%29</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281029%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1033</title>
       <description>Norme per lo snellimento delle procedure relative agli interventi negli impianti di depurazione pubblici</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281033%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281018%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1013</title>
-      <description>Disposizioni in materia di attività di tirocinio e formative degli specializzandi presso le strutture ospedaliere delle Aziende Sanitarie Provinciali.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281013%29.NUMDDL%29</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281013%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1012</title>
-      <description>Disciplina organica delle attività commerciali, della somministrazione di cibo e bevande, del commercio equo e solidale e delle politiche attive di sostegno al commercio nella Regione Siciliana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281012%29.NUMDDL%29</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281012%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
