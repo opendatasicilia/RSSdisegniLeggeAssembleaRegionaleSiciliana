@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 9791</title>
+      <description>Disposizioni urgenti in materia di concessioni demaniali marittime, gestione del servizio idrico integrato nell'ambito territoriale ottimale di Agrigento e di personale di Sicilia Digitale S.p.A. Disposizioni varie.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%289791%29.NUMDDL%29</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%289791%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1058</title>
       <description>Istituzione di una quota pari al 30 per cento dei posti a concorso destinata agli operatori sanitari reclutati durante l'emergenza COVID-19 a decorrere dall'anno 2021 e fino all'anno 2024 individuata nelle previsioni all'art. 4 della Legge Regionale 6 agos</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281058%29.NUMDDL%29</link>
@@ -106,6 +113,20 @@
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%286691%29.NUMDDL%29</guid>
     </item>
     <item>
+      <title>Disegno di legge 1040</title>
+      <description>Norme in materia di promozione e tutela dell'attività fisico - motoria e sportiva</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281040%29.NUMDDL%29</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281040%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1039</title>
+      <description>Istituzione delle palestre della salute</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281039%29.NUMDDL%29</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281039%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1038</title>
       <description>Interventi per la valorizzazione e il riordino del lavoro forestale</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281038%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281043%29.NUMDDL%29</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281043%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1042</title>
-      <description>Legge di modifica dell'art.45 della Legge Regionale n.9 del 15 aprile 2021</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281042%29.NUMDDL%29</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281042%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1041</title>
-      <description>Misure per la realizzazione di impianti fotovoltaici o solari su terreni agrari coltivabili</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281041%29.NUMDDL%29</link>
-      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281041%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1037</title>
-      <description>Disposizioni per la promozione della parità retributiva tra i sessi, il sostegno dell'occupazione e dell'imprenditoria femminile di qualità, nonché per la valorizzazione delle competenze delle donne</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281037%29.NUMDDL%29</link>
-      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281037%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
