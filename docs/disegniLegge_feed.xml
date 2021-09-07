@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1047</title>
+      <description>Inquadramento dei lavoratori a tempo indeterminato del settore forestale e della prevenzione degli incendi boschivi</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281047%29.NUMDDL%29</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281047%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 9791</title>
       <description>Disposizioni urgenti in materia di concessioni demaniali marittime, gestione del servizio idrico integrato nell'ambito territoriale ottimale di Agrigento e di personale di Sicilia Digitale S.p.A. Disposizioni varie.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%289791%29.NUMDDL%29</link>
@@ -97,13 +104,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281048%29.NUMDDL%29</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281048%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1047</title>
-      <description>Inquadramento dei lavoratori a tempo indeterminato del settore forestale e della prevenzione degli incendi boschivi</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281047%29.NUMDDL%29</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281047%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 6691</title>
