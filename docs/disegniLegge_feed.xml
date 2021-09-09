@@ -8,6 +8,55 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1060</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera e) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2021 - mese di aprile</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281060%29.NUMDDL%29</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281060%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1059</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. mese di aprile</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281059%29.NUMDDL%29</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281059%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1052</title>
+      <description>Interventi regionali per promuovere e sostenere la trasformazione e la riconversione di imprese in crisi in società cooperative (workers buyout).</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281052%29.NUMDDL%29</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281052%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1051</title>
+      <description>Norme sulla BLOCKCHAIN - Registro Digitale per la tracciabilità dei prodotto agroalimentari</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281051%29.NUMDDL%29</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281051%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1050</title>
+      <description>Norme di interpretazione autentica del comma 1 dell'art. 18 della Legge regionale 12 giugno 1976, n. 78</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281050%29.NUMDDL%29</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281050%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1049</title>
+      <description>Sviluppo e valorizzazione dei piccoli comuni del territorio siciliano</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281049%29.NUMDDL%29</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281049%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1048</title>
+      <description>Definizione dei rapporti patrimoniale tra il Comune di Acquedolci ed il Comune di San Fratello</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281048%29.NUMDDL%29</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281048%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1047</title>
       <description>Inquadramento dei lavoratori a tempo indeterminato del settore forestale e della prevenzione degli incendi boschivi</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281047%29.NUMDDL%29</link>
@@ -71,41 +120,6 @@
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%289627%29.NUMDDL%29</guid>
     </item>
     <item>
-      <title>Disegno di legge 1052</title>
-      <description>Interventi regionali per promuovere e sostenere la trasformazione e la riconversione di imprese in crisi in società cooperative (workers buyout).</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281052%29.NUMDDL%29</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281052%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1051</title>
-      <description>Norme sulla BLOCKCHAIN - Registro Digitale per la tracciabilità dei prodotto agroalimentari</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281051%29.NUMDDL%29</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281051%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1050</title>
-      <description>Norme di interpretazione autentica del Comma 1 dell'art.18 della L.R. 12 giugno 1976 n.78</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281050%29.NUMDDL%29</link>
-      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281050%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1049</title>
-      <description>Sviluppo e valorizzazione dei piccoli comuni del territorio siciliano</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281049%29.NUMDDL%29</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281049%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1048</title>
-      <description>Definizione dei rapporti patrimoniale tra il Comune di Acquedolci ed il Comune di San Fratello</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281048%29.NUMDDL%29</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281048%29.NUMDDL%29</guid>
-    </item>
-    <item>
       <title>Disegno di legge 6691</title>
       <description>Modifiche alla legge regionale 10 agosto 2016, n. 16 in materia di compatibilità delle costruzioni realizzate in aree sottoposte a vincolo</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%286691%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281043%29.NUMDDL%29</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281043%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1041</title>
-      <description>Misure per la realizzazione di impianti fotovoltaici o solari su terreni agrari coltivabili</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281041%29.NUMDDL%29</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281041%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1040</title>
-      <description>Norme in materia di promozione e tutela dell'attività fisico - motoria e sportiva</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281040%29.NUMDDL%29</link>
-      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281040%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
