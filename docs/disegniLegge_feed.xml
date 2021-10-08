@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1085</title>
+      <description>Istituzione della figura dello Psicologo delle cure primarie.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1084</title>
+      <description>Norme in materia di valorizzazione delle feste patronali, degli usi, dei costumi, delle consuetudini e delle attività tradizionali della popolazione</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281084%29.NUMDDL%29</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281084%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1083</title>
+      <description>Norme a garanzia delle persone LGBT QIA+ che subiscono discriminazione e violenza omofoba.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281083%29.NUMDDL%29</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281083%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1082</title>
       <description>Assestamento del bilancio di previsione per l'esercizio finanziario 2021 e per il triennio 2021/2023</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281082%29.NUMDDL%29</link>
@@ -69,27 +90,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281079%29.NUMDDL%29</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281079%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1085</title>
-      <description>Istituzione della figura dello Psicologo delle cure primarie.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</link>
-      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1084</title>
-      <description>Norme in materia di valorizzazione delle feste patronali, degli usi, dei costumi, delle consuetudini e delle attività tradizionali della popolazione</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281084%29.NUMDDL%29</link>
-      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281084%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1083</title>
-      <description>Norme a garanzia delle persone LGBT QIA+ che subiscono discriminazione e violenza omofoba.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281083%29.NUMDDL%29</link>
-      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281083%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 1077</title>
