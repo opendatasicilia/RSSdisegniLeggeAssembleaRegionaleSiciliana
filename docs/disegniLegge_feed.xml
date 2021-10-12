@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1093</title>
+      <description>Modifiche al disegno di legge Istituzione di borse di studio per favorire gli studi comparatistici della giustizia della comunità europea</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281093%29.NUMDDL%29</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281093%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1092</title>
+      <description>Modifiche alla Legge regionale 02 agosto 2002, n. 5. Disciplina delle Strade dell'olio e dei Prodotti tipici agro-alimentari</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281092%29.NUMDDL%29</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281092%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1091</title>
+      <description>Incentivi a favore del personale sanitario in servizio presso le Isole minori ed in aree disagiate a tutela della salute pubblica.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281091%29.NUMDDL%29</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281091%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1085</title>
       <description>Istituzione della figura dello Psicologo delle cure primarie.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281072%29.NUMDDL%29</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281072%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1071</title>
-      <description>Ripristino della consultazione elettorale sulla rimozione del sindaco prevista dall'art. 18 della L.R. 26 agosto 1992, n. 7</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281071%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281071%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1070</title>
-      <description>Reddito di residenza attiva nei Comuni con popolazione fino a 2.500 abitanti</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281070%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281070%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1069</title>
-      <description>Istituzione del Garante regionale della Terza età</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281069%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281069%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
