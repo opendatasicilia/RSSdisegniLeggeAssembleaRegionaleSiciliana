@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1094</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. mese di agosto</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281094%29.NUMDDL%29</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281094%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1093</title>
       <description>Modifiche al disegno di legge Istituzione di borse di studio per favorire gli studi comparatistici della giustizia della comunità europea</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281093%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281073%29.NUMDDL%29</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281073%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1072</title>
-      <description>Interventi a favore delle campagne antincendio e coinvolgimento dei cacciatori nelle attività di prevenzione</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281072%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281072%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
