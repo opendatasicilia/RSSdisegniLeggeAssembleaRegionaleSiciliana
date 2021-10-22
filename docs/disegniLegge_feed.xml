@@ -8,25 +8,46 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
-      <title>Disegno di legge 1095</title>
-      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera e) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2021 mese di agosto</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281095%29.NUMDDL%29</link>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281095%29.NUMDDL%29</guid>
+      <title>Disegno di legge 1099</title>
+      <description>Norme in materia di funzionamento del Corpo forestale della Regione Siciliana</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281099%29.NUMDDL%29</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281099%29.NUMDDL%29</guid>
     </item>
     <item>
-      <title>Disegno di legge 1094</title>
-      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. mese di agosto</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281094%29.NUMDDL%29</link>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281094%29.NUMDDL%29</guid>
+      <title>Disegno di legge 1098</title>
+      <description>Norme per l'organizzazione di un sistema di comunicazione relativo al triage intra-ospedaliero inerenti la presa in carico del paziente e la gestione degli accompagnatori e/o familiari fino alla dimissione ovvero al ricovero.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281098%29.NUMDDL%29</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281098%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 1096</title>
       <description>Progetto di legge costituzionale da proporre al Parlamento della Repubblica ai sensi dell'art. 41-ter, comma 2, dello Statuto recante modifica dell'art. 43 dello Statuto della Regione siciliana in materia di nomina dei componenti della commissione pariteti</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281096%29.NUMDDL%29</link>
-      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281096%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1095</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera e) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2021 - mese di agosto</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281095%29.NUMDDL%29</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281095%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1094</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2021 - mese di agosto</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281094%29.NUMDDL%29</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281094%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1097</title>
+      <description>Modifica di norme costituzionali in materia di autonomia differenziata.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281097%29.NUMDDL%29</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281097%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 1093</title>
@@ -48,6 +69,13 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281090%29.NUMDDL%29</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281090%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1088</title>
+      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'art. 18 dello Statuto della Regione Siciliana, recante Modifiche al decreto legislativo 7 settembre 2012, n. 155 - Nuova organizzazione dei Tribunali ordinari e degli uff</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281088%29.NUMDDL%29</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281088%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 1091</title>
@@ -92,13 +120,6 @@
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281089%29.NUMDDL%29</guid>
     </item>
     <item>
-      <title>Disegno di legge 1088</title>
-      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'art.18 dello Statuto della Regione Siciliana, recante Modifiche al decreto legislativo 7 settembre 2012, n.155 - Nuova organizzazione dei Tribunali ordinari e degli uffic</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281088%29.NUMDDL%29</link>
-      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281088%29.NUMDDL%29</guid>
-    </item>
-    <item>
       <title>Disegno di legge 1087</title>
       <description>Abrogazione della legge regionale 29 luglio 2021, n. 19 - Modifiche alla legge regionale 10 agosto 2016, n. 16 in materia di compatibilità delle costruzioni realizzate in aree sottoposte a vincolo</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281087%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281080%29.NUMDDL%29</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281080%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1079</title>
-      <description>Modifiche di norme della L.R. 14 dicembre 2019, n. 23, Istituzione del sistema regionale della formazione professionale</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281079%29.NUMDDL%29</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281079%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1077</title>
-      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. mese di luglio</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281077%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281077%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1076</title>
-      <description>Disposizioni in materia di inserimento lavorativo delle persone con disturbi dello spettro autistico</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281076%29.NUMDDL%29</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281076%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
