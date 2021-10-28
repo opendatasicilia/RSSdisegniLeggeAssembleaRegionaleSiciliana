@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1105</title>
+      <description>Interventi a sostegno di nuove iniziative ricadenti nelle aree ad alto rischio ambientale perimetrate all'interno delle aree zes.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281105%29.NUMDDL%29</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281105%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1104</title>
+      <description>Interventi in favore del personale medico titolare di incarico a tempo indeterminato nel ruolo dell'Emergenza Sanitaria Territoriale e medici per la continuità assistenziale, riconosciuto inidoneo al servizio.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281104%29.NUMDDL%29</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281104%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1103</title>
       <description>Istituzione, disciplina e promozione degli ecomusei</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281103%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281085%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1084</title>
-      <description>Norme in materia di valorizzazione delle feste patronali, degli usi, dei costumi, delle consuetudini e delle attività tradizionali della popolazione</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281084%29.NUMDDL%29</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281084%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1083</title>
-      <description>Norme a garanzia delle persone LGBT QIA+ che subiscono discriminazione e violenza omofoba.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281083%29.NUMDDL%29</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281083%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
