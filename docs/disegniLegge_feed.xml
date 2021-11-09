@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1110</title>
+      <description>Istituzione di cimiteri destinati alla sepoltura di animali d'affezione</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281110%29.NUMDDL%29</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281110%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1109</title>
+      <description>Norme per la tutela dei consumatori e degli utenti</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281109%29.NUMDDL%29</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281109%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1108</title>
       <description>Recepimento del Regolamento CE 178/2002, del sistema tecnologico DLT (Distributed Ledger Technology) per assicurare la tracciabilità ed il controllo dei prodotti alimentari</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281108%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281092%29.NUMDDL%29</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281092%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1090</title>
-      <description>Modifiche alla legge regionale 3 dicembre 2003, n. 20. Determinazione delle sedi dell'Enoteca regionale della Sicilia</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281090%29.NUMDDL%29</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281090%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1088</title>
-      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'art. 18 dello Statuto della Regione Siciliana, recante Modifiche al decreto legislativo 7 settembre 2012, n. 155 - Nuova organizzazione dei Tribunali ordinari e degli uff</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281088%29.NUMDDL%29</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281088%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
