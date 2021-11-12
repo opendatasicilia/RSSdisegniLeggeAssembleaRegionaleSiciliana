@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1112</title>
+      <description>Disposizioni in materia di edilizia</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281112%29.NUMDDL%29</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281112%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1111</title>
+      <description>Indennità di residenza a favore dei farmacisti rurali. Modifiche di norme.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281111%29.NUMDDL%29</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281111%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1110</title>
       <description>Istituzione di cimiteri destinati alla sepoltura di animali d'affezione</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281110%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281091%29.NUMDDL%29</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281091%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1093</title>
-      <description>Modifiche al disegno di legge Istituzione di borse di studio per favorire gli studi comparatistici della giustizia della comunità europea</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281093%29.NUMDDL%29</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281093%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1092</title>
-      <description>Modifiche alla Legge regionale 02 agosto 2002, n. 5. Disciplina delle Strade dell'olio e dei Prodotti tipici agro-alimentari</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281092%29.NUMDDL%29</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281092%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
