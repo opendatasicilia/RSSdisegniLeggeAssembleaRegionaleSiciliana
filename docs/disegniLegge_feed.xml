@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1125</title>
+      <description>Norme per la tutela della salute dei soggetti affetti da celiachia.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281125%29.NUMDDL%29</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281125%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1124</title>
+      <description>Modifica dell'articolo 2, della legge regionale 1 settembre 1998, n. 17 'Istituzione del servizio di vigilanza e salvataggio per le spiagge libere siciliane'.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281124%29.NUMDDL%29</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281124%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1123</title>
+      <description>Norme in materia di disposizioni e contenimento delle emissioni in atmosfera provenienti dalle attività ad impatto odorigeno.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281123%29.NUMDDL%29</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281123%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1122</title>
       <description>Norme per la promozione, lo sviluppo e la semplificazione delle attività artigiane</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281122%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281103%29.NUMDDL%29</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281103%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1102</title>
-      <description>Disposizioni in materia di rischio idrogeologico e sismico attraverso l'introduzione obbligatoria dell'Ufficio tutela suolo.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281102%29.NUMDDL%29</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281102%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1099</title>
-      <description>Norme in materia di funzionamento del Corpo forestale della Regione Siciliana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281099%29.NUMDDL%29</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281099%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1101</title>
-      <description>Interventi di prevenzione e sostegno in materia di diffusione illecita di immagini o video sessualmente espliciti.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281101%29.NUMDDL%29</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281101%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
