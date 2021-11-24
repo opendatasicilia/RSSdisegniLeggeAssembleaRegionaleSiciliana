@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 9621</title>
+      <description>Interpretazione autentica dell'articolo 20, comma 1, della legge regionale 13 settembre 1999, n. 20, così come modificato dall'articolo 15, della legge regionale 20 novembre 2008, n. 15 (VEDI NOTA 1)</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%289621%29.NUMDDL%29</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%289621%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1125</title>
       <description>Norme per la tutela della salute dei soggetti affetti da celiachia.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281125%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281104%29.NUMDDL%29</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281104%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1103</title>
-      <description>Istituzione, disciplina e promozione degli ecomusei</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281103%29.NUMDDL%29</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281103%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
