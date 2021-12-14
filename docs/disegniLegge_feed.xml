@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1135</title>
+      <description>Modifiche al comma 3 bis dell'articolo 3 della l.r. 7/1992.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281135%29.NUMDDL%29</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281135%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1134</title>
+      <description>Modifica alla L.R. 4 agosto 2015, n. 15 e s.m.i</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281134%29.NUMDDL%29</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281134%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1133</title>
+      <description>Schema di progetto di legge da proporre al Parlamento della Repubblica, ai sensi dell'art. 18 dello Statuto della Regione Siciliana recante la Disciplina relativa alle attività di ricostruzione o di riparazione degli edifici privati interessati dal terremo</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281133%29.NUMDDL%29</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281133%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1129</title>
       <description>Modifiche all'art. 6 della Legge Regionale n. 24 del 21 ottobre 2020</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281129%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281112%29.NUMDDL%29</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281112%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1111</title>
-      <description>Indennità di residenza a favore dei farmacisti rurali. Modifiche di norme.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281111%29.NUMDDL%29</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281111%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1116</title>
-      <description>Norme in materia di eleggibilità dei Sindaci nei comuni con popolazione sino a 15.000 abitanti</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281116%29.NUMDDL%29</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281116%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1115</title>
-      <description>Istituzione della giornata regionale in memoria delle vittime nelle miniere</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281115%29.NUMDDL%29</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281115%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
