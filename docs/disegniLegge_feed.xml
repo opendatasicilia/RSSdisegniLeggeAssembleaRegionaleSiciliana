@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 11401</title>
+      <description>Norme in materia di armonizzazione dei sistemi contabili in attuazione del decreto legislativo 27 dicembre 2019, n. 158 (n. 1140 Stralcio I)</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%2811401%29.NUMDDL%29</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%2811401%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1140</title>
+      <description>Autorizzazione all'esercizio provvisorio del bilancio della Regione per l'esercizio 2022</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281140%29.NUMDDL%29</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281140%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1139</title>
       <description>Provvedimenti a favore dei soggetti danneggiati dall'esplosione del 11 dicembre 2021 a Ravanusa (AG).</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281139%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281121%29.NUMDDL%29</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281121%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1120</title>
-      <description>Sostegno al turismo siciliano tramite le iniziative degli Aeroclub Siciliani</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281120%29.NUMDDL%29</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281120%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1119</title>
-      <description>Istituzione dell'Ufficio geologico territoriale di zona</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281119%29.NUMDDL%29</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281119%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
