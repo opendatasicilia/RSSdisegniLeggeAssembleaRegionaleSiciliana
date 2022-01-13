@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1142</title>
+      <description>Modifica di norme in materia di elezioni comunali</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281142%29.NUMDDL%29</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281142%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1155</title>
       <description>Disposizioni per garantire in sicurezza gli incontri in ambito ospedaliero tra familiari e degenti affetti anche da Covid</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281155%29.NUMDDL%29</link>
@@ -132,13 +139,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281143%29.NUMDDL%29</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281143%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1142</title>
-      <description>Modifica di norme in materia di elezioni comunali</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281142%29.NUMDDL%29</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281142%29.NUMDDL%29</guid>
     </item>
     <item>
       <title>Disegno di legge 1137</title>
