@@ -8,6 +8,27 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1159</title>
+      <description>Regolamentazione delle professioni di Educatore e Pedagogista in ambito sanitario</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281159%29.NUMDDL%29</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281159%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1158</title>
+      <description>Istituzione giornata in memoria delle vittime di mafia, estorsione ed usura</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281158%29.NUMDDL%29</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281158%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1157</title>
+      <description>Istituzione del Garante regionale e dei Garanti distrettuali per la tutela delle vittime di reato</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281157%29.NUMDDL%29</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281157%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1146</title>
       <description>Istituzione dell'Autorità Portuale Regionale (ASPOR)</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281146%29.NUMDDL%29</link>
@@ -125,27 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281139%29.NUMDDL%29</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281139%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1138</title>
-      <description>Disposizioni per la prevenzione del maltrattamento sui minori</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281138%29.NUMDDL%29</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281138%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1136</title>
-      <description>Introduzione limiti emissivi di idrocarburi non metanici e idrogeno solforato.</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281136%29.NUMDDL%29</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281136%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1137</title>
-      <description>Norme per la promozione e il miglioramento della qualità degli interventi di prevenzione, sanitari, socio sanitari e sociali in favore di persone minori, adolescenti e adulte affette dai disturbi dello spettro autistico. Interventi di sostegno in favore de</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281137%29.NUMDDL%29</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281137%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
