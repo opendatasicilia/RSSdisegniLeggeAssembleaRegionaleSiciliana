@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1162</title>
+      <description>Norme complementari alle misure finanziarie per il 2022</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281162%29.NUMDDL%29</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281162%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1156</title>
+      <description>Disposizioni sulla qualità della regolazione</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281156%29.NUMDDL%29</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281156%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1161</title>
       <description>Misure per il contrasto del fenomeno della solitudine e per la promozione dell'invecchiamento attivo.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281161%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281143%29.NUMDDL%29</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281143%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1142</title>
-      <description>Modifica di norme in materia di elezioni comunali</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281142%29.NUMDDL%29</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281142%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1141</title>
-      <description>Norme in materia di armonizzazione dei sistemi contabili in attuazione del decreto legislativo 27 dicembre 2019, n. 158 (n. 1140 Stralcio I)</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281141%29.NUMDDL%29</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281141%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
