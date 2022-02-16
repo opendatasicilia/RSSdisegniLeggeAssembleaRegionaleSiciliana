@@ -4,7 +4,7 @@ set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
-URLbase="http://www.regione.sicilia.it/deliberegiunta/index.asp"
+URLbase="https://www2.regione.sicilia.it/deliberegiunta/index.asp"
 
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
@@ -18,10 +18,28 @@ if [ $code -eq 200 ]; then
   anno=$(date +"%Y")
 
   # imposta cookie
-  curl -c "$folder"/rawdata/cookie 'http://www.regione.sicilia.it/deliberegiunta/index.asp' >/dev/null
+  curl -c "$folder"/rawdata/cookie 'https://www2.regione.sicilia.it/deliberegiunta/index.asp' >/dev/null
 
   # scarica HTML dell'anno
-  curl -b "$folder"/rawdata/cookie -kL 'http://www.regione.sicilia.it/deliberegiunta/RicercaDelibereN.asp' -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:78.0) Gecko/20100101 Firefox/78.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed -H 'Content-Type: application/x-www-form-urlencoded' -H 'Origin: http://www.regione.sicilia.it' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Referer: http://www.regione.sicilia.it/deliberegiunta/index.asp' -H 'Upgrade-Insecure-Requests: 1' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' --data-raw 'anno='"$anno"'&assessorato=---&numero=&optTipoDel=&txtDescrizione=&optTipoRic=0&cmdbtn=Visualizza' >"$folder"/rawdata/"$anno"_delibereLeggi.html
+  curl -b "$folder"/rawdata/cookie -kL 'https://www2.regione.sicilia.it/deliberegiunta/RicercaDelibereN.asp' \
+  -H 'Connection: keep-alive' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="98", "Google Chrome";v="98"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Origin: https://www2.regione.sicilia.it' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Referer: https://www2.regione.sicilia.it/deliberegiunta/index.asp' \
+  -H 'Accept-Language: en-US,en;q=0.9,it;q=0.8' \
+  --data-raw 'anno='"$anno"'&assessorato=---&numero=&optTipoDel=&txtDescrizione=&optTipoRic=0&cmdbtn=Visualizza' \
+  --compressed >"$folder"/rawdata/"$anno"_delibereLeggi.html
 
   # estrai dall'HTML la tabella e convertila in JSON
   scrape <"$folder"/rawdata/"$anno"_delibereLeggi.html -be '//table/tr[position() < last() and position()>1]' | xq '.html.body.tr' >"$folder"/rawdata/"$anno"_delibereLeggi.json
@@ -30,7 +48,7 @@ if [ $code -eq 200 ]; then
   jq <"$folder"/rawdata/"$anno"_delibereLeggi.json '.[]|{numero:.td[0]["#text"],data:.td[1]["#text"],descrizione:.td[2]["#text"],assessorato:.td[3]?["#text"]?,nomine:.td[4].b?,spesa:.td[5].b?,ddl:.td[6]?["#text"]?,file:.td[7].a[0]?["@href"]?}' | mlr --j2c unsparsify then put '$anno='"$anno"'' >"$folder"/rawdata/"$anno".csv
 
   # fai pulizia spazi bianchi e aggiuni URL file
-  mlr --csv clean-whitespace then put '$file=sub($file,"\./file/","http://www.regione.sicilia.it/deliberegiunta/file/");$file=gsub($file," ","%20")' "$folder"/rawdata/"$anno".csv >"$folder"/processing/delibereLeggi.csv
+  mlr --csv clean-whitespace then put '$file=sub($file,"\./file/","https://www2.regione.sicilia.it/deliberegiunta/file/");$file=gsub($file," ","%20")' "$folder"/rawdata/"$anno".csv >"$folder"/processing/delibereLeggi.csv
 
   # ordina per anno e numero
   mlr -I --csv sort -nr anno,numero "$folder"/processing/delibereLeggi.csv
