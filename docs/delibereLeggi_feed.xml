@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>76</title>
+      <description>Istituzione del Centro Internazionale di Medicina dello Sport e Concussion � Apprezzamento</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.076_16.02.2022.pdf</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.076_16.02.2022.pdf</guid>
+    </item>
+    <item>
       <title>68</title>
       <description>Piano Sviluppo e Coesione. Delibera CIPESS n. 2 del 29 aprile 2021. Istituzione del Comitato di Sorveglianza. Documento 'Sistema di gestione e controllo (SI.GE.CO.)'. Approvazione</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.068_12.02.2022.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.40_12.02.2022.pdf</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.40_12.02.2022.pdf</guid>
-    </item>
-    <item>
-      <title>39</title>
-      <description>Progetto: 'Resilience' per le scienze religiose - Apprezzamento</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.39_12.02.2022.pdf</link>
-      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.39_12.02.2022.pdf</guid>
     </item>
   </channel>
 </rss>
