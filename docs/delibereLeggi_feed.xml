@@ -8,11 +8,25 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>94</title>
+      <description>Stadio Comunale di Palermo 'Renzo Barbera'. Progetto di restyling spogliatoi squadra locale</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.094_24.02.2022.pdf</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.094_24.02.2022.pdf</guid>
+    </item>
+    <item>
       <title>85</title>
       <description>Piano Sviluppo e Coesione (PSC) Regione Siciliana. Documento 'Sistema di gestione e controllo (SI.GE.CO.)' approvato con deliberazione della Giunta regionale n. 68 del 12 febbraio 2022. Modifica e integrazione</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.85_24.02.2022.pdf</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.85_24.02.2022.pdf</guid>
+    </item>
+    <item>
+      <title>84</title>
+      <description>PO FESR Sicilia 2014/2020. Community Led Local Development (CLLD) plurifondo in Sicilia ex art. 32 e 33 del Regolamento UE n. 1303/2013. Riprogrammazione delle risorse dalle azioni 3.3.2, 3.3.3, 3.3.4 a favore dell'azione 3.1.1.4b da parte dei GAL</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.084_24.02.2022.pdf</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.084_24.02.2022.pdf</guid>
     </item>
     <item>
       <title>83</title>
@@ -202,20 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.55_12.02.2022.pdf</link>
       <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.55_12.02.2022.pdf</guid>
-    </item>
-    <item>
-      <title>54</title>
-      <description>Approvazione verbale n. 53 relativo alla seduta della Giunta regionale del 27 dicembre 2019</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.54_12.02.2022.pdf</link>
-      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.54_12.02.2022.pdf</guid>
-    </item>
-    <item>
-      <title>53</title>
-      <description>Approvazione verbale n. 52 relativo alla seduta della Giunta regionale del 24 dicembre 2019</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.53_12.02.2022.pdf</link>
-      <pubDate>Sat, 12 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.53_12.02.2022.pdf</guid>
     </item>
   </channel>
 </rss>
