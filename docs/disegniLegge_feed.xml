@@ -8,6 +8,34 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1201</title>
+      <description>Norme in materia di scostamento dagli indicatori occupazionali per le misure del PO FESR 2007/2013</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281201%29.NUMDDL%29</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281201%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1200</title>
+      <description>Legge sull'istituzione del servizio di trattamento psicologico post Covid-19</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281200%29.NUMDDL%29</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281200%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1199</title>
+      <description>Indennità di funzione degli amministratori locali. Recepimento dei commi da 583 a 585 dell'art. 1 della l.234/21</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281199%29.NUMDDL%29</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281199%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1198</title>
+      <description>Modifica della legge 1 del 10 febbraio 2004 recante Disciplina dell'istituto del Referendum nella Regione Siciliana</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281198%29.NUMDDL%29</link>
+      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281198%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1174</title>
       <description>Recepimento Decreto Legislativo n. 25 del 3 marzo 2021 Disposizioni urgenti per il differimento di consultazioni elettorali , convertito con modificazioni dalla Legge 3 maggio 2021, n. 58.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281174%29.NUMDDL%29</link>
@@ -118,34 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281183%29.NUMDDL%29</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281183%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1182</title>
-      <description>Modifiche alla legge regionale n. 18 del 2021</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281182%29.NUMDDL%29</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281182%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1181</title>
-      <description>Norme su Agricoltura urbana, periurbana e metropolitana</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281181%29.NUMDDL%29</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281181%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1180</title>
-      <description>Aiuto economico ai malati oncologici e istituzione del Comitato permanente per la prevenzione oncologica</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281180%29.NUMDDL%29</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281180%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1179</title>
-      <description>Istituzione del Servizio di Psicologia delle Cure Primarie e dello Psicologo delle Cure Primarie</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281179%29.NUMDDL%29</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281179%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
