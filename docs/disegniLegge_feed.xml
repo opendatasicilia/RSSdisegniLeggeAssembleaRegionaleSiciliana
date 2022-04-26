@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1234</title>
+      <description>Legge di stabilità regionale 2022/2024</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281234%29.NUMDDL%29</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281234%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1224</title>
+      <description>Bilancio di previsione della Regione Siciliana per il triennio 2022/2024</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281224%29.NUMDDL%29</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281224%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1223</title>
       <description>Norme per il funzionamento degli Ispettorati territoriali del lavoro della Regione Siciliana.</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281223%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281197%29.NUMDDL%29</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281197%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1209</title>
-      <description>Disposizioni in materia di personale delle Città metropolitane e dei Liberi Consorzi dei Comuni</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281209%29.NUMDDL%29</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281209%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1202</title>
-      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. mese di Gennaio</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281202%29.NUMDDL%29</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281202%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
