@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>230</title>
+      <description>Parere del Collegio dei revisori dei conti della Regione Siciliana sul disegno di legge 'Bilancio di previsione della Regione Siciliana per il triennio 2022/2024</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.230_28.04.2022.pdf</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.230_28.04.2022.pdf</guid>
+    </item>
+    <item>
+      <title>229</title>
+      <description>Approvazione disegno di legge recante: 'Modifica dei requisiti previsti per la nomina dei Direttori dei Parchi archeologici in Sicilia ai sensi della legge regionale 3 novembre 2000, n. 20</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.229_20.04.2022.pdf</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.229_20.04.2022.pdf</guid>
+    </item>
+    <item>
       <title>228</title>
       <description>Proroga incarichi dirigenziali - Determinazioni</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.228_20.04.2022.pdf</link>
@@ -202,20 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.201_14.04.2022.pdf</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.201_14.04.2022.pdf</guid>
-    </item>
-    <item>
-      <title>200</title>
-      <description>Nuova versione bozza del Programma Regionale FSE(+) 2021/2027 � Apprezzamento per negoziato CE</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.200_14.04.2022.pdf</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.200_14.04.2022.pdf</guid>
-    </item>
-    <item>
-      <title>199</title>
-      <description>Programma Regionale FESR 2021/2027. Apprezzamento prima versione</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.199_14.04.2022.pdf</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.199_14.04.2022.pdf</guid>
     </item>
   </channel>
 </rss>
