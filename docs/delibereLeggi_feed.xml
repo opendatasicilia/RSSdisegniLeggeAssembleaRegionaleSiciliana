@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>265</title>
+      <description>Bilancio di previsione della Regione Siciliana 2022/2024. Decreto legislativo 23 giugno 2011, n. 118, e successive modifiche ed integrazioni, Allegato 4/1 ? 9.2. Approvazione del Documento tecnico di accompagnamento, Bilancio finanziario gestionale e Piano degli indicatori</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.265_30.05.2022.pdf</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.265_30.05.2022.pdf</guid>
+    </item>
+    <item>
       <title>264</title>
       <description>Nota di variazione al Bilancio di previsione della Regione Siciliana per il triennio 2022/2024' a seguito dell?approvazione del disegno di legge riguardante ?Legge di stabilità regionale 2022/2024?. Errata corrige</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.264_24.05.2022.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.236_28.04.2022.pdf</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.236_28.04.2022.pdf</guid>
-    </item>
-    <item>
-      <title>235</title>
-      <description>Decentramento dei procedimenti amministrativi di competenza dei Dipartimenti regionale</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.235_28.04.2022.pdf</link>
-      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.235_28.04.2022.pdf</guid>
     </item>
   </channel>
 </rss>
