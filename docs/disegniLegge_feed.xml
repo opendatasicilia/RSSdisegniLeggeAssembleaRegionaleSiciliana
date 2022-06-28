@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1235</title>
+      <description>Riconoscimento della legittimità dei debiti fuori bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2022 - mese di marzo.</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281235%29.NUMDDL%29</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281235%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1244</title>
       <description>Disposizioni per la promozione e il sostegno della lettura e del libro</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281244%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281223%29.NUMDDL%29</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281223%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1222</title>
-      <description>Schema di progetto di legge costituzionale da proporre al Parlamento della Repubblica ai sensi dell'articolo 41 ter, comma 2, dello Statuto recante 'Modifiche all'articolo 17 dello Statuto della Regione siciliana, in materia di legislazione sociale, rappor</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281222%29.NUMDDL%29</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281222%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
