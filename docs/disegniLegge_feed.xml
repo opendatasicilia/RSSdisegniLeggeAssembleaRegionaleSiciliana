@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1265</title>
+      <description>Modifiche alla legge regionale 25 maggio 2022, n. 13 e alla legge regionale 25 maggio 2022, n. 14. Variazioni al bilancio di previsione della Regione siciliana per il triennio 2022/2024 .</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281265%29.NUMDDL%29</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281265%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1264</title>
       <description>Modifiche alla legge regionale 20 marzo 1951 n. 29 e ss.mm.ii. concernente Elezione dei Deputati all'Assemblea regionale siciliana per l'introduzione del diritto di opzione del voto per corrispondenza o per via telematica per gli elettori temporaneamente f</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281264%29.NUMDDL%29</link>
@@ -139,13 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281242%29.NUMDDL%29</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281242%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1241</title>
-      <description>Modifiche e integrazioni alla Legge Regionale 19 novembre 2021 n. 27 Interventi per la prevenzione e il contrasto ai fenomeni del bullismo e del cyberbullismo sul territorio della Regione</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281241%29.NUMDDL%29</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281241%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
