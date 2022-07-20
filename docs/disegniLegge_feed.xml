@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/disegniLegge_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>Disegno di legge 1267</title>
+      <description>Il concorso degli enti pubblici locali nel potenziamento energetico - verso l'autonomia energetica regionale .</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281267%29.NUMDDL%29</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281267%29.NUMDDL%29</guid>
+    </item>
+    <item>
+      <title>Disegno di legge 1266</title>
+      <description>Norme per la promozione e valorizzazione delle spiagge facenti parte del demanio marittimo regionale finalizzate a uso turistico e ricreativo lasciate a uso pubblico</description>
+      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281266%29.NUMDDL%29</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281266%29.NUMDDL%29</guid>
+    </item>
+    <item>
       <title>Disegno di legge 1265</title>
       <description>Modifiche alla legge regionale 25 maggio 2022, n. 13 e alla legge regionale 25 maggio 2022, n. 14. Variazioni al bilancio di previsione della Regione siciliana per il triennio 2022/2024 .</description>
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281265%29.NUMDDL%29</link>
@@ -132,20 +146,6 @@
       <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281244%29.NUMDDL%29</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281244%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1243</title>
-      <description>Deroga delle fasce di rispetto dei depuratori</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281243%29.NUMDDL%29</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281243%29.NUMDDL%29</guid>
-    </item>
-    <item>
-      <title>Disegno di legge 1242</title>
-      <description>Istituzione delle giornate dedicate alla promozione e divulgazione dei prodotti biologici del territorio siciliano</description>
-      <link>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281242%29.NUMDDL%29</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://w3.ars.sicilia.it/icaro/default.jsp?icaDB=221&amp;icaQuery=%2817.LEGISL+E+%281242%29.NUMDDL%29</guid>
     </item>
   </channel>
 </rss>
