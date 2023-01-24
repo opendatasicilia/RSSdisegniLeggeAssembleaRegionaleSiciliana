@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>53</title>
+      <description>Autorizzazione per la costituzione parte civile della Presidenza della Regione Siciliana e, segnatamente, dell'Assessorato regionale dell'energia e dei servizi di pubblica utilità, nel procedimento penale xxxxxxxxxxxxxxx pendente presso il Tribunale di xxxxxxx a carico di xxxxxxxxxx</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.053_20.01.2023_con_omissis.pdf</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.053_20.01.2023_con_omissis.pdf</guid>
+    </item>
+    <item>
+      <title>50</title>
+      <description>Mandato al Dipartimento regionale della funzione pubblica e del personale per l?indizione di Atto d?interpello per il conferimento degli incarichi di Dirigente generale dei Dipartimenti regionali e degli Uffici equiparati</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.050_20.01.2023.pdf</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.050_20.01.2023.pdf</guid>
+    </item>
+    <item>
       <title>44</title>
       <description>Elenchi dei soggetti del Gruppo Amministrazione Pubblica della Regione Siciliana ai sensi dell'Allegato 4/4 al decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni. Anno 2021</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.044_16.01.2023.pdf</link>
@@ -202,20 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.017_05.01.2023%20con%20omissis.pdf</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.017_05.01.2023%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>16</title>
-      <description>Ente regionale per il Diritto allo Studio Universitario (E.R.S.U.) di Catania ? Revoca e contestuale conferimento dell'incarico di Presidente</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.016_05.01.2023%20con%20omissis.pdf</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.016_05.01.2023%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>15</title>
-      <description>Istituto Sperimentale Zootecnico per la Sicilia (ISZS) - Revoca del Consiglio di Amministrazione e Nomina del Commissario straordinario</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.015_05.01.2023%20con%20omissis.pdf</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.015_05.01.2023%20con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
