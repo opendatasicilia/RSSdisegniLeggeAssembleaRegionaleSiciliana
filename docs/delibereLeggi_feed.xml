@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>104</title>
+      <description>Autorizzazione per la costituzione di parte civile della Presidenza della Regione Siciliana e, segnatamente, dell'Assessorato regionale del territorio e dell'ambiente e dell'Assessorato regionale dell'agricoltura, dello sviluppo rurale e della pesca mediterranea, nel procedimento penale n. XXXXXXXXXX a carico di XXXXXXXXX, pendente presso il Tribunale di XXXXXX</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.104_27.02.2023_con_omissis.pdf</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.104_27.02.2023_con_omissis.pdf</guid>
+    </item>
+    <item>
       <title>103</title>
       <description>Personale tecnico-amministrativo a supporto del Soggetto Attuatore del Commissario Delegato ex Ordinanza 8 ottobre 2020, n.25 e Coordinatore della Struttura Tecnica di Supporto � Conferma utilizzo</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.103_15.02.2023.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.075_10.02.2023%20CON%20OMISSIS.pdf</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.075_10.02.2023%20CON%20OMISSIS.pdf</guid>
-    </item>
-    <item>
-      <title>74</title>
-      <description>Conferimento incarico di Dirigente generale del Dipartimento regionale della protezione civile della Presidenza della Regione Siciliana all'ing. Salvatore Cocina</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.074_10.02.2023%20CON%20OMISSIS.pdf</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.074_10.02.2023%20CON%20OMISSIS.pdf</guid>
     </item>
   </channel>
 </rss>
