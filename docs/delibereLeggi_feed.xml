@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>106</title>
+      <description>Bilancio di previsione della Regione Siciliana 2023/2025. Decreto legislativo 23 giugno 2011, n. 118, e successive modifiche ed integrazioni, Allegato 4/1 � 9.2. Approvazione del Documento tecnico di accompagnamento, Bilancio finanziario gestionale, Perimetro sanitario e Piano degli indicatori</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.106_01.03.2023.pdf</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.106_01.03.2023.pdf</guid>
+    </item>
+    <item>
+      <title>105</title>
+      <description>Proclamazione dello stato di calamit� - Piogge alluvionali verificatesi nei giorni 8, 9 e 10 febbraio 2023 nel territorio delle province di Caltanissetta, Catania, Ragusa e Siracusa</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.105_27.02.2023.pdf</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.105_27.02.2023.pdf</guid>
+    </item>
+    <item>
       <title>104</title>
       <description>Autorizzazione per la costituzione di parte civile della Presidenza della Regione Siciliana e, segnatamente, dell'Assessorato regionale del territorio e dell'ambiente e dell'Assessorato regionale dell'agricoltura, dello sviluppo rurale e della pesca mediterranea, nel procedimento penale n. XXXXXXXXXX a carico di XXXXXXXXX, pendente presso il Tribunale di XXXXXX</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.104_27.02.2023_con_omissis.pdf</link>
@@ -202,20 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.077_10.02.2023%20con%20omissis.pdf</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.077_10.02.2023%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>76</title>
-      <description>Conferimento incarico di Dirigente generale del Dipartimento regionale delle attivit� produttive dell'Assessorato regionale delle attivit� produttive al dott. Carmelo Frittitta</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.076_10.02.2023%20CON%20OMISSIS.pdf</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.076_10.02.2023%20CON%20OMISSIS.pdf</guid>
-    </item>
-    <item>
-      <title>75</title>
-      <description>Conferimento incarico di Dirigente generale del Dipartimento regionale della programmazione della Presidenza della Regione Siciliana al dott. Vincenzo Falgares</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.075_10.02.2023%20CON%20OMISSIS.pdf</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.075_10.02.2023%20CON%20OMISSIS.pdf</guid>
     </item>
   </channel>
 </rss>
