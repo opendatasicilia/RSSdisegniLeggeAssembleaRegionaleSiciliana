@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>117</title>
+      <description>Approvazione disegno di legge: 'Disciplina in materia di funzioni, organi di governo e sistema elettorale delle province e delle città metropolitane'</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.117_03.03.2023.pdf</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.117_03.03.2023.pdf</guid>
+    </item>
+    <item>
       <title>116</title>
       <description>Azienda sanitaria provinciale (A.S.P.) di Messina - Dotazione Organica e Piano Triennale dei Fabbisogni di Personale 2022/2024 - Parere</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.116_03.03.2023.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.088_10.02.2023%20con%20omissis.pdf</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.088_10.02.2023%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>87</title>
-      <description>Conferimento incarico di Dirigente generale del Dipartimento regionale delle infrastrutture, della mobilit� e dei trasporti dell'Assessorato regionale delle infrastrutture e della mobilit� all'arch. Salvatore Lizzio</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.087_10.02.2023%20CON%20OMISSIS.pdf</link>
-      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.087_10.02.2023%20CON%20OMISSIS.pdf</guid>
     </item>
   </channel>
 </rss>
