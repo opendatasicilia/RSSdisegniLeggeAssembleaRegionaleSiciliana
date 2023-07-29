@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>314</title>
+      <description>Schema di decreto: Abrogazione dell?art.7 del decreto legislativo 27 dicembre 2019, n.158 recante Norme di attuazione dello statuto speciale della Regione Siciliana in materia di armonizzazione dei sistemi contabili, dei conti giudiziali e dei controlli - Approvazione</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.314_27.07.2023.pdf</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.314_27.07.2023.pdf</guid>
+    </item>
+    <item>
+      <title>311</title>
+      <description>Decreto legislativo 2 gennaio 2018, n. 1 Codice della protezione civile - Art. 24 - Richiesta di deliberazione dello stato di emergenza di rilievo nazionale a seguito degli incendi e dell'eccezionale ondata di calore verificatisi dal 23 luglio 2023 che hanno interessato il territorio della Regione Siciliana</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.311_26.07.2023.pdf</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.311_26.07.2023.pdf</guid>
+    </item>
+    <item>
       <title>310</title>
       <description>PNRR Missione 1 Componente 1 ? PA Digitale. Cabina di regia</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.310_17.07.2023.pdf</link>
@@ -202,20 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.283_06.07.2023.pdf</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.283_06.07.2023.pdf</guid>
-    </item>
-    <item>
-      <title>282</title>
-      <description>Atto di indirizzo - Programmi di investimento PO FESR 2014-2020. Termine per l'ultimazione dei programmi di investimento a favore di imprese ed enti di ricerca pubblici e privati, anche in partenariato, con oneri a carico del Programma operativo FESR Sicilia 2014 - 2020</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.282_29.06.2023.pdf</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.282_29.06.2023.pdf</guid>
-    </item>
-    <item>
-      <title>281</title>
-      <description>Approvazione verbale n. 21 relativo alla seduta della Giunta regionale del 26 aprile 2023</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.281_29.06.2023.pdf</link>
-      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.281_29.06.2023.pdf</guid>
     </item>
   </channel>
 </rss>
