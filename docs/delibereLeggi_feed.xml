@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>162</title>
+      <description>Legge regionale 16 gennaio 2024, n.1, articolo 10. Integrazione oraria del personale ASU in utilizzazione al Dipartimento regionale dei beni culturali e dell'identità siciliana. Modifica deliberazione della Giunta regionale n. 113 del 21 marzo 2024</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.162_18.04.2024.pdf</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.162_18.04.2024.pdf</guid>
+    </item>
+    <item>
       <title>148</title>
       <description>Istituzione Cabina di regia presso la Presidenza della Regione Siciliana per fronteggiare lo stato di crisi e di emergenza nel territorio della Regione Siciliana nel settore idrico agricolo/zootecnico e in quello idropotabile civile e produttivo</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.148_09.04.2024.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.120_21.03.2024.pdf</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.120_21.03.2024.pdf</guid>
-    </item>
-    <item>
-      <title>119</title>
-      <description>Approvazione schema tipo dell'atto aggiuntivo al contratto di finanziamento tra Cassa Depositi e Prestiti e Regione Siciliana per l'estensione del periodo di utilizzo senza oneri per la Regione</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.119_21.03.2024.pdf</link>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.119_21.03.2024.pdf</guid>
     </item>
   </channel>
 </rss>
