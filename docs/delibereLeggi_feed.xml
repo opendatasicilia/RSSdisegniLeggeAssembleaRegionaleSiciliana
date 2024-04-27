@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>166</title>
+      <description>Empedocle Consorzio Universitario Agrigento - Nomina Componente del Consiglio di amministrazione con funzioni di Presidente</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.166_26.04.2024%20con%20omissis.pdf</link>
+      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.166_26.04.2024%20con%20omissis.pdf</guid>
+    </item>
+    <item>
       <title>162</title>
       <description>Legge regionale 16 gennaio 2024, n.1, articolo 10. Integrazione oraria del personale ASU in utilizzazione al Dipartimento regionale dei beni culturali e dell'identità siciliana. Modifica deliberazione della Giunta regionale n. 113 del 21 marzo 2024</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.162_18.04.2024.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.134_03.04.2024.pdf</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.134_03.04.2024.pdf</guid>
-    </item>
-    <item>
-      <title>133</title>
-      <description>Riprogrammazione del Piano di Azione e Coesione (Programma Operativo Complementare) Sicilia 2014/2020</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.133_03.04.2024.pdf</link>
-      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.133_03.04.2024.pdf</guid>
     </item>
   </channel>
 </rss>
