@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>247</title>
+      <description>Programma Regionale FESR Sicilia 2021/2027. Riprogrammazione in applicazione del Regolamento (UE) 2024/795 del Parlamento europeo e del Consiglio del 29 febbraio 2024 che istituisce la piattaforma per le tecnologie strategiche per l'Europa (STEP)</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.247_12.07.2024.pdf</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.247_12.07.2024.pdf</guid>
+    </item>
+    <item>
       <title>246</title>
       <description>Schema di Disegno di legge 'Ordinamento della dirigenza nell'Amministrazione regionale. Modifiche alla legge regionale 15 maggio 2000, n.10'</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.246_04.07.2024.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.218_17.06.2024.pdf</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.218_17.06.2024.pdf</guid>
-    </item>
-    <item>
-      <title>217</title>
-      <description>Progetto esecutivo delle Opere provvisionali di imbocco della Galleria Montestretto in variante al Progetto definitivo nell’ambito del Lotto 4a: Tratta Caltanissetta Xirbi-Enna Nuova del Nuovo collegamento ferroviario Palermo-Catania – Apprezzamento</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.217_17.06.2024.pdf</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.217_17.06.2024.pdf</guid>
     </item>
   </channel>
 </rss>
