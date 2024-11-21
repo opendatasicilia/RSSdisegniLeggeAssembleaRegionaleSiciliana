@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>389</title>
+      <description>Incarico di Segretario Generale della Presidenza della Regione ad interim alla dott.ssa Margherita Rizza</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.389_19.11.2024.pdf</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.389_19.11.2024.pdf</guid>
+    </item>
+    <item>
       <title>383</title>
       <description>Rendiconto generale della Regione Siciliana per l'esercizio finanziario 2023. Decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.383_19.11.2024.pdf</link>
@@ -62,6 +69,20 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.365_14.11.2024.pdf</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.365_14.11.2024.pdf</guid>
+    </item>
+    <item>
+      <title>364</title>
+      <description>Programma Operativo Complementare Sicilia 2014/2020. Asse 3 “Sostenere la connessione regionale attraverso il rafforzamento della mobilità e delle infrastrutture di trasporto”. Riprogrammazione della dotazione assegnata al Dipartimento regionale delle infrastrutture, della mobilità e dei trasporti</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.364_14.11.2024.pdf</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.364_14.11.2024.pdf</guid>
+    </item>
+    <item>
+      <title>363</title>
+      <description>Programma Regionale FESR Sicilia 2021/2027. Rimodulazione finanziaria Priorità 2 – Obiettivo Specifico 2.2. 'Promuovere le energie rinnovabili in conformità della Direttiva (UE) 2018/2001 sull'energia da fonti rinnovabili, compresi i criteri di sostenibilità ivi stabiliti' - Azioni 2.2.4 e 2.2.5</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.363_14.11.2024.pdf</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.363_14.11.2024.pdf</guid>
     </item>
     <item>
       <title>361</title>
@@ -195,27 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.342_11.11.2024.pdf</link>
       <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.342_11.11.2024.pdf</guid>
-    </item>
-    <item>
-      <title>341</title>
-      <description>Autorizzazione per la costituzione parte civile della Presidenza della Regione Siciliana e, segnatamente, dell'Assessorato regionale del territorio e dell'ambiente e del Dipartimento regionale della protezione civile della Presidenza della Regione, nel procedimento penale XXXXX R.G.N.R. e XXXXX R.G. G.I.P., pendente presso il Tribunale di XXXXX</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.341_11.11.2024%20con%20omissis.pdf</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.341_11.11.2024%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>340</title>
-      <description>Autorizzazione per la costituzione di parte civile della Presidenza della Regione Siciliana nel procedimento penale XXXXXXXXXX, pendente presso il Tribunale di XXXXXX</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.340_11.11.2024%20con%20omissis.pdf</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.340_11.11.2024%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>339</title>
-      <description>Autorizzazione per la costituzione di parte civile della Presidenza della Regione Siciliana nel procedimento penale XXXXXXXXX e n. XXXXXXXXX, pendente presso il Tribunale di XXXXXXX</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.339_11.11.2024%20con%20omissis.pdf</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.339_11.11.2024%20con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
