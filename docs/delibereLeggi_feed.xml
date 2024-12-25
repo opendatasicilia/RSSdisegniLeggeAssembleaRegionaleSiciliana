@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>443</title>
+      <description>Fondo Sicilia. Decreto assessoriale di costituzione e rideterminazione dei plafond. Apprezzamento</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.443_23.12.2024.pdf</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.443_23.12.2024.pdf</guid>
+    </item>
+    <item>
       <title>442</title>
       <description>Servizi Ausiliari Sicilia (SAS) S.C.p.A. - Piano Assunzionale. Approvazione</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.442_11.12.2024.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.414_11.12.2024.pdf</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.414_11.12.2024.pdf</guid>
-    </item>
-    <item>
-      <title>413</title>
-      <description>Eventi meteo avversi che hanno interessato il territorio della Regione Siciliana nei giorni 10, 11, 12, 13 e 14 novembre 2024:&#13;1 - Dichiarazione dello stato di crisi e di emergenza regionale, ai sensi dell'articolo 3 della legge regionale 7 luglio 2020, n. 13;&#13;2 - Richiesta di deliberazione dello stato di emergenza di rilievo nazionale, ai sensi dell'articolo 24 del decreto legislativo 2 gennaio 2018, n. 1 'Codice della protezione civile'</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.413_11.12.2024.pdf</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.413_11.12.2024.pdf</guid>
     </item>
   </channel>
 </rss>
