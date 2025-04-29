@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>123</title>
+      <description>Intesa prevista dall’articolo 10 del decreto legislativo 6 maggio 1948, n. 655, ratificato con legge 17 aprile 1956, n. 561 - Articolo 23, comma 3, dello Statuto della Regione Siciliana - Conferimento incarico</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.123_24.04.2025.pdf</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.123_24.04.2025.pdf</guid>
+    </item>
+    <item>
+      <title>122</title>
+      <description>Incarico di Dirigente generale del Dipartimento regionale per la pianificazione strategica dell’Assessorato regionale della salute - Proroga tecnica - Mandato al Dipartimento regionale della funzione pubblica e del personale per l’indizione di Atto d’interpello per il conferimento dell'incarico di Dirigente generale del Dipartimento regionale per la pianificazione strategica dell’Assessorato regionale della salute</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.122_24.04.2025.pdf</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.122_24.04.2025.pdf</guid>
+    </item>
+    <item>
       <title>121</title>
       <description>Bilancio preventivo economico annuale consolidato del Servizio sanitario regionale - Anno 2025 - Approvazione</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.121_24.04.2025.pdf</link>
@@ -27,6 +41,13 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.118_24.04.2025.pdf</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.118_24.04.2025.pdf</guid>
+    </item>
+    <item>
+      <title>117</title>
+      <description>Azioni per il rilancio delle attività dell'Ufficio di rappresentanza della Regione Siciliana in Bruxelles - Apprezzamento</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.117_24.04.2025.pdf</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.117_24.04.2025.pdf</guid>
     </item>
     <item>
       <title>116</title>
@@ -195,27 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.093_19.03.2025.pdf</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.093_19.03.2025.pdf</guid>
-    </item>
-    <item>
-      <title>92</title>
-      <description>Elezione amministrative 2025. Individuazione date del turno elettorale ordinario</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.092_19.03.2025.pdf</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.092_19.03.2025.pdf</guid>
-    </item>
-    <item>
-      <title>91</title>
-      <description>Fondo Sicilia. Legge regionale 30 gennaio 2025, n. 3, articolo 38. Abbattimento degli interessi sui prestiti al consumo per acquisto di beni durevoli</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.091_19.03.2025.pdf</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.091_19.03.2025.pdf</guid>
-    </item>
-    <item>
-      <title>90</title>
-      <description>Nomina del Direttore generale dell’Azienda Ospedali Riuniti ‘Villa Sofia-Cervello’ di Palermo, dott. Alessandro Calogero Maria Mazzara</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.090_19.03.2025%20con%20omissis.pdf</link>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.090_19.03.2025%20con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
