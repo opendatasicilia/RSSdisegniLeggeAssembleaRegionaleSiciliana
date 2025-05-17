@@ -8,6 +8,20 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>151</title>
+      <description>Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio 27 aprile 2016 - Designazione del Responsabile per la protezione dei dati</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.151_16.05.2025%20con%20omissis.pdf</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.151_16.05.2025%20con%20omissis.pdf</guid>
+    </item>
+    <item>
+      <title>132</title>
+      <description>Accordo Stato-Regione Siciliana per il ripiano pluriennale del disavanzo. Autorizzazione alla predisposizione del preconsuntivo. Anno 2024</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.132_16.05.2025.pdf</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.132_16.05.2025.pdf</guid>
+    </item>
+    <item>
       <title>127</title>
       <description>Articolo 13 della legge regionale 7 luglio 2020, n. 13 - Dichiarazione dello stato di crisi e di emergenza regionale per la salvaguardia del settore agricolo e zootecnico della Regione Siciliana</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.127_06.05.2025.pdf</link>
@@ -202,20 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.100_01.04.2025%20con%20omissis.pdf</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.100_01.04.2025%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>99</title>
-      <description>Ente minerario siciliano in liquidazione (EMS) - Nomina Commissario liquidatore</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.099_01.04.2025%20con%20omissis.pdf</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.099_01.04.2025%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>98</title>
-      <description>Dichiarazione dello stato di crisi e di emergenza regionale ai sensi dell'articolo 3 della legge regionale 7 luglio 2020, n. 13 – Interruzione della via Garipoli, di accesso ai comuni di Taormina e di Castelmola, in provincia di Messina, a seguito di dissesto idrogeologico</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.098_01.04.2025.pdf</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.098_01.04.2025.pdf</guid>
     </item>
   </channel>
 </rss>
