@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>211</title>
+      <description>Programma Regionale FESR Sicilia 2021/2027. Riprogrammazione in applicazione del Regolamento (UE) 2024/3236 (RESTORE) del Parlamento europeo e del Consiglio del 19 dicembre 2024 che modifica i regolamenti (UE) 2021/1057 e (UE) 2021/1058 per quanto riguarda il sostegno regionale di emergenza per la ricostruzione (RESTORE). Misure straordinarie di sostegno alla ricostruzione post-catastrofi naturali</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.211_08.07.2025.pdf</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.211_08.07.2025.pdf</guid>
+    </item>
+    <item>
       <title>210</title>
       <description>Fondi destinati all'acquisto di materiale rotabile di cui al Decreto del Ministero delle Infrastrutture e dei Trasporti 14 febbraio 2020, n. 81 - Rimodulazione somme 2° quinquennio 2024/2028</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.210_01.07.2025.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.182_10.06.2025.pdf</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.182_10.06.2025.pdf</guid>
-    </item>
-    <item>
-      <title>181</title>
-      <description>Fondo per l'inclusione delle persone sorde e con ipoacusia - Annualità 2023'. Apprezzamento</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.181_10.06.2025.pdf</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.181_10.06.2025.pdf</guid>
     </item>
   </channel>
 </rss>
