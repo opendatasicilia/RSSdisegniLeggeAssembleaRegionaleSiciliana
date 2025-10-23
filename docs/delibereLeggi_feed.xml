@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>311</title>
+      <description>Accordo per la Coesione della Regione Siciliana. Programmazione FSC 2021/2027. Conferimento di funzioni di Organismo Intermedio alla Struttura del Commissario di Governo per il contrasto del dissesto idrogeologico nella Regione Siciliana per l’attuazione degli interventi di competenza dell’Autorità di Bacino del Distretto Idrografico della Sicilia, afferenti all’ambito d’intervento 05. 'Ambiente e risorse naturali' – linea di intervento 05.01 'Rischi e adattamento climatico' e di un intervento afferente all’ambito di intervento 12. 'Capacità amministrativa' – linea di intervento 12.02 'Assistenza tecnica'</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.311_20.10.2025_con%20omissis.pdf</link>
+      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.311_20.10.2025_con%20omissis.pdf</guid>
+    </item>
+    <item>
       <title>310</title>
       <description>'Piano Regionale di Gestione dei Rifiuti - Stralcio Rifiuti Speciali'. Apprezzamento</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.310_20.10.2025.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.282_03.10.2025_con%20omissis.pdf</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.282_03.10.2025_con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>281</title>
-      <description>Autorizzazione per la costituzione parte civile della Presidenza della Regione Siciliana e, segnatamente, dell'Assessorato regionale dell'agricoltura, dello sviluppo rurale e della pesca mediterranea, nel procedimento penale n. XXXXXXXX a carico di XXXXXXXX XXXXXXXX pendente presso il Tribunale di XXXXXXX</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.281_03.10.2025%20con%20omissis.pdf</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.281_03.10.2025%20con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
