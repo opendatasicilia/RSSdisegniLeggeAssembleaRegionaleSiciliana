@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>59</title>
+      <description>Autorizzazione per la costituzione parte civile della Regione Siciliana e, segnatamente, dell’Assessorato regionale delle infrastrutture e della mobilità, nel procedimento penale n. xxxx R.G.N.R., a carico di xxxx., pendente presso il Tribunale di xxxx</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.059_10.02.2026_con%20omissis.pdf</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.059_10.02.2026_con%20omissis.pdf</guid>
+    </item>
+    <item>
       <title>54</title>
       <description>Schema di Decreto assessoriale - Modifica dell’articolo 3 del Decreto assessoriale n. 22/GAB Ambiente del 10 febbraio 2025 - Commissione Tecnica Specialistica - Apprezzamento</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.054_04.02.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.026_22.01.2026.pdf</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.026_22.01.2026.pdf</guid>
-    </item>
-    <item>
-      <title>25</title>
-      <description>Articolo 3 della legge regionale 7 luglio 2020, n. 13. Dichiarazione dello stato di crisi e di emergenza regionale per gli eventi meteo avversi che hanno interessato il territorio della Regione Siciliana nei giorni 19, 20 e 21 gennaio 2026</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.025_22.01.2026.pdf</link>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.025_22.01.2026.pdf</guid>
     </item>
   </channel>
 </rss>
