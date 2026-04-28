@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>189</title>
+      <description>Sospensione, nelle more dell’avvio del procedimento di revoca, della deliberazione 20 aprile 2026, n.173 recante “Ufficio Speciale Autorità di Audit dei programmi cofinanziati dalla Commissione Europea della Presidenza della Regione – Dirigente generale – Conferimento incarico</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.189_27.04.2026%20con%20omissis.pdf</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.189_27.04.2026%20con%20omissis.pdf</guid>
+    </item>
+    <item>
       <title>186</title>
       <description>Piano Territoriale Regionale a valenza sociale ed economica della Regione Siciliana –&#13;Schema di Piano, Rapporto preliminare ed elaborati. Apprezzamento</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.186_22.04.2026_OMISSIS.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.158_09.04.2026.pdf</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.158_09.04.2026.pdf</guid>
-    </item>
-    <item>
-      <title>157</title>
-      <description>Ritiro Deliberazione della Giunta regionale 29 gennaio 2026, n. 30 e contestuale approvazione del Piano Integrato di Attività e Organizzazione (PIAO) della Regione Siciliana 2026-2028 ai sensi dell’articolo 6 del decreto-legge 9 giugno 2021, n. 80, convertito, con modificazioni, dalla legge 6 agosto 2021, n. 113</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.157_09.04.2026.pdf</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.157_09.04.2026.pdf</guid>
     </item>
   </channel>
 </rss>
