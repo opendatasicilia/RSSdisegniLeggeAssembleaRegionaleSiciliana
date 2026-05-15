@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>200</title>
+      <description>Documento Unitario di Programmazione degli Investimenti Sanitari in Sicilia DUPISS - versione Maggio 2026 - Apprezzamento</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.200_14.05.2026.pdf</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.200_14.05.2026.pdf</guid>
+    </item>
+    <item>
       <title>189</title>
       <description>Sospensione, nelle more dell’avvio del procedimento di revoca, della deliberazione 20 aprile 2026, n.173 recante “Ufficio Speciale Autorità di Audit dei programmi cofinanziati dalla Commissione Europea della Presidenza della Regione – Dirigente generale – Conferimento incarico</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.189_27.04.2026%20con%20omissis.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.161_09.04.2026.pdf</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.161_09.04.2026.pdf</guid>
-    </item>
-    <item>
-      <title>160</title>
-      <description>Stima delle entrate e delle spese al 31 dicembre 2025. Risultato di Amministrazione&#13;e Avanzo finanziario presunto al 31 dicembre 2025. Aggiornamento</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.160_09.04.2026.pdf</link>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.160_09.04.2026.pdf</guid>
     </item>
   </channel>
 </rss>
