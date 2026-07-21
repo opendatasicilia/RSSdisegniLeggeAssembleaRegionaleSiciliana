@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>296</title>
+      <description>Disegno di legge: ‘Approvazione del Rendiconto generale della Regione per l'esercizio finanziario 2022 e del Rendiconto consolidato della Regione dell’esercizio 2022 di cui al comma 8 dell'articolo 11 del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche e integrazioni’</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.296_20.07.2026.pdf</link>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.296_20.07.2026.pdf</guid>
+    </item>
+    <item>
       <title>290</title>
       <description>Disegno di legge: ‘Approvazione del Rendiconto generale della Regione per l'esercizio finanziario 2021 e del Rendiconto consolidato dell’esercizio 2021 di cui al comma 8 dell'articolo 11 del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche e integrazioni’</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.290_08.07.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.262_30.06.2026.pdf</link>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.262_30.06.2026.pdf</guid>
-    </item>
-    <item>
-      <title>261</title>
-      <description>Protocollo d'intesa tra la Regione Siciliana e il Comando Generale del Corpo delle Capitanerie di Porto – Guardia Costiera (Cogecap) - Apprezzamento</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.261_30.06.2026_con%20omissis.pdf</link>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.261_30.06.2026_con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
