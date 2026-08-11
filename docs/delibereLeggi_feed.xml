@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>320</title>
+      <description>PR FESR Sicilia 2021/2027 - Conferimento di funzioni di Organismo Intermedio alla Struttura dell’Area Urbana Funzionale della Sicilia Centrale (FUA Sicilia Centrale) nell’ambito della Priorità 0006 “Verso le Strategie di sviluppo territoriale in Sicilia”</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.320_06.08.2026.pdf</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.320_06.08.2026.pdf</guid>
+    </item>
+    <item>
       <title>318</title>
       <description>Dipartimento regionale della pesca mediterranea dell’Assessorato regionale dell'agricoltura, dello sviluppo rurale e della pesca mediterranea - Conferimento incarico di Dirigente generale ad interim</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.318_31.07.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.290_08.07.2026.pdf</link>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.290_08.07.2026.pdf</guid>
-    </item>
-    <item>
-      <title>289</title>
-      <description>Ufficio Autorità di audit dei programmi cofinanziati dalla Commissione europea della Presidenza della Regione - Conferimento incarico di Dirigente generale ad interim</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.289_08.07.2026.pdf</link>
-      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.289_08.07.2026.pdf</guid>
     </item>
   </channel>
 </rss>
