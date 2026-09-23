@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>339</title>
+      <description>Riaccertamento ordinario dei residui attivi e passivi al 31 dicembre 2025. Articolo 3, comma 4, del decreto legislativo 23 giugno 2011, n. 118 e successive modifiche ed integrazioni</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.339_22.09.2026.pdf</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.339_22.09.2026.pdf</guid>
+    </item>
+    <item>
       <title>338</title>
       <description>Attribuzione temporanea di funzioni del Ragioniere Generale</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.338_11.09.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.310_31.07.2026.pdf</link>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.310_31.07.2026.pdf</guid>
-    </item>
-    <item>
-      <title>309</title>
-      <description>Programma Operativo Complementare POC Sicilia 2014/2020. Asse 2 Sostenere l'attuazione del Green Deal europeo. Riprogrammazione delle risorse finanziarie di competenza del Dipartimento regionale della protezione civile</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.309_31.07.2026.pdf</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.309_31.07.2026.pdf</guid>
     </item>
   </channel>
 </rss>
