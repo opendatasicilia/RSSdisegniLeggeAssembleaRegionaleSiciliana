@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>357</title>
+      <description>Autorizzazione per la costituzione parte civile</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.357_26.10.2026%20con%20omissis.pdf</link>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.357_26.10.2026%20con%20omissis.pdf</guid>
+    </item>
+    <item>
       <title>355</title>
       <description>Modifiche e integrazioni al riaccertamento ordinario dei residui attivi e passivi al 31&#13;dicembre 2025 approvato con deliberazione della Giunta regionale 22 settembre 2026,&#13;n.339, ai sensi dell'articolo 3, comma 4, del decreto legislativo 23 giugno 2011, n. 118&#13;e successive modifiche ed integrazioni</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.355_22.10.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.327_%2011.09.2026.pdf</link>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.327_%2011.09.2026.pdf</guid>
-    </item>
-    <item>
-      <title>326</title>
-      <description>Articolo 3 della legge regionale 7 luglio 2020, n. 13. Dichiarazione dello stato di&#13;crisi e di emergenza regionale a seguito degli incendi e delle eccezionali ondate di&#13;calore dei mesi di luglio ed agosto 2026 nel territorio della Regione Siciliana</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.326_11.08.2026.pdf</link>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.326_11.08.2026.pdf</guid>
     </item>
   </channel>
 </rss>
