@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>400</title>
+      <description>Approvazione disegno di legge: ‘Disposizioni in materia di trasparenza dell’attività di rappresentanza di interessi presso gli organi di Governo e l’Amministrazione regionale’</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.400_05.11.2026.pdf</link>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.400_05.11.2026.pdf</guid>
+    </item>
+    <item>
       <title>397</title>
       <description>Nota di Aggiornamento al Documento di Economia e Finanza Regionale (NADEFR) 2027/2029</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.397_03.11.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.369_26.10.2026.pdf</link>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.369_26.10.2026.pdf</guid>
-    </item>
-    <item>
-      <title>368</title>
-      <description>Nuova Matrice Professionale per il personale del comparto non dirigenziale della Regione&#13;Siciliana. Dizionario delle competenze. Approvazione. Atto di indirizzo per l'attuazione del&#13;nuovo Sistema Professionale regionale</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.368_26.10.2026.pdf</link>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.368_26.10.2026.pdf</guid>
     </item>
   </channel>
 </rss>
