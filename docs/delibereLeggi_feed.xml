@@ -8,6 +8,13 @@
     <link>https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml</link>
     <atom:link rel="self" href="https://opendatasicilia.github.io/RSSdisegniLeggeAssembleaRegionaleSiciliana/delibereLeggi_feed.xml" type="application/rss+xml"/>
     <item>
+      <title>401</title>
+      <description>Approvazione disegno di legge: 'Legge di stabilità regionale 2027/2029'</description>
+      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.401_10.11.2026.pdf</link>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.401_10.11.2026.pdf</guid>
+    </item>
+    <item>
       <title>400</title>
       <description>Approvazione disegno di legge: ‘Disposizioni in materia di trasparenza dell’attività di rappresentanza di interessi presso gli organi di Governo e l’Amministrazione regionale’</description>
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.400_05.11.2026.pdf</link>
@@ -209,13 +216,6 @@
       <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.372_26.10.2026%20con%20omissis.pdf</link>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.372_26.10.2026%20con%20omissis.pdf</guid>
-    </item>
-    <item>
-      <title>371</title>
-      <description>Approvazione disegno di legge: ‘Riconoscimento della legittimità dei debiti fuori&#13;bilancio ai sensi dell'articolo 73, comma 1, lettera a) del decreto legislativo 23 giugno&#13;2011, n. 118 e successive modifiche ed integrazioni. D.F.B. 2026. Mese di Luglio</description>
-      <link>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.371_26.10.2026%20con%20omissis.pdf</link>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://www2.regione.sicilia.it/deliberegiunta/file/giunta/allegati/N.371_26.10.2026%20con%20omissis.pdf</guid>
     </item>
   </channel>
 </rss>
